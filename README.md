@@ -1,6 +1,6 @@
-# QuizStorm
+# QuizStorm 2.0
 
-A Online Quiz Game 
+A Online Amazing Quiz Game
 
 ## Getting Started
 
