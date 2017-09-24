@@ -1,6 +1,6 @@
 # QuizStorm
 
-A Online Quiz Game
+A Online Quiz Game 
 
 ## Getting Started
 
