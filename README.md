@@ -1,4 +1,4 @@
-# QuizStorm version 1.0
+# QuizStorm 2.0
 
 A Online Amazing Quiz Game
 
