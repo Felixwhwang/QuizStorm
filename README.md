@@ -1,4 +1,4 @@
-# QuizStorm
+# QuizStorm 2.0
 
 A Online Amazing Quiz Game
 
