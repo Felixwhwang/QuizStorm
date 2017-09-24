@@ -1,6 +1,6 @@
 # QuizStorm 2.0
 
-# test
+# test 1.0
 
 A Online Amazing Quiz Game
 
