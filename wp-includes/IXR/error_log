@@ -1,0 +1,7 @@
+[15-Oct-2017 22:44:55 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home1/autombq6/public_html/quizstorm/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[15-Oct-2017 22:52:04 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home1/autombq6/public_html/quizstorm/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[18-Oct-2017 05:30:23 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home1/autombq6/public_html/quizstorm/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[18-Oct-2017 06:01:25 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home1/autombq6/public_html/quizstorm/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[18-Oct-2017 20:31:31 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home1/autombq6/public_html/quizstorm/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[19-Oct-2017 11:08:08 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home1/autombq6/public_html/quizstorm/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[20-Oct-2017 04:02:32 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home1/autombq6/public_html/quizstorm/wp-includes/IXR/class-IXR-clientmulticall.php on line 9

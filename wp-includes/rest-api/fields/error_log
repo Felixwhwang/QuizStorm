@@ -1,0 +1,4 @@
+[16-Oct-2017 23:59:52 America/Denver] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[17-Oct-2017 00:00:04 America/Denver] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[17-Oct-2017 00:00:15 America/Denver] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[17-Oct-2017 00:00:32 America/Denver] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17

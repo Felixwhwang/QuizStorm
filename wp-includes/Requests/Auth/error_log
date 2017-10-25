@@ -1,0 +1,1 @@
+[16-Oct-2017 21:34:14 America/Denver] PHP Fatal error:  Interface 'Requests_Auth' not found in /home1/autombq6/public_html/quizstorm/wp-includes/Requests/Auth/Basic.php on line 18

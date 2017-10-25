@@ -1,0 +1,163 @@
+/* Exc Theme Upgrade */
+
+.exc-theme-update {
+	margin-right: 20px;
+}
+.tu-header {
+	background-color: #f7f7f7;
+    height: 64px;
+    padding: 0 20px;
+    margin: 20px 0;
+    overflow: hidden;
+}
+.tu-header h2 {
+	color: #23282d;
+	font-size: 24px;
+	font-weight: 600;
+	float: left;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 64px;
+}
+.tu-header ul {
+	float: right;
+	margin: 17px 0;
+}
+.tu-header .button {
+	float: left;
+	margin-top: 18px;
+	margin-left: 20px;
+}
+.exc-tasks .card {
+	max-width: 100%;
+}
+.exc-tasks h2 {
+	font-size: 24px;
+	color: #444;
+	margin-bottom: 20px;
+	display: inline-block;
+}
+.exc-tasks h2 strong {
+	color: #23282d;
+}
+.exc-tasks .button {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+/*Inndex-list*/
+.exc-index-list:before,
+.exc-index-list:after {
+	content: "";
+	display: table;
+}
+.exc-index-list:after {
+	clear: both;
+}
+.exc-index-list {
+	list-style: none;
+	padding: 0;
+	float: right;
+    margin: 17px 0;
+}
+.exc-index-list li {
+	float: left;
+    font-size: 18px;
+    margin-right: 35px;
+    padding-left: 45px;
+    line-height: 30px;
+    position: relative;
+}
+.index {
+ 	border-radius: 50%;
+    color: #fff;
+    display: block;
+    font-weight: 600;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    text-transform: uppercase;
+    text-align: center;
+    width: 30px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.fix .index {
+	background-color: #e74c3c;
+}
+.update .index{
+	background-color: #faa700;
+}
+.new .index {
+	background-color: #0099e5;
+}
+.index .spinner {
+	background: url(../images/spinner-lg.gif) no-repeat #ffffff;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 30px;
+	width: 30px;
+	margin: 0;
+	opacity: 0.95;
+}
+/*Task list*/
+.exc-task-list {
+	list-style: none;
+	padding-left: 0;
+	margin: 0;
+}
+.exc-task-list li {
+	position: relative;
+	padding-left: 45px;
+	line-height: 30px;
+	font-size: 16px;
+	padding: 15px 0 15px 45px;
+	margin-bottom: 0;
+}
+.exc-task-list li:last-child {
+	padding-bottom: 0;
+}
+.exc-task-list li + li {
+	border-top: 2px solid #f9f9f9;
+}
+.exc-task-list li .index {
+	top: 15px;
+}
+.task-detail {
+	margin: 0;
+	line-height: 30px;
+	font-size: 16px;
+}
+.exc-task-list li.task-done .task-detail {
+	text-decoration: line-through;
+}
+.exc-task-list li .action-buttons {
+	margin-top: 10px;
+}
+.exc-task-list li .action-buttons a {
+	text-decoration: none;
+	position: relative;
+}
+.exc-task-list li .action-buttons a:hover {
+	text-decoration: underline;
+}
+.exc-task-list li .action-buttons a + a {
+	margin-left: 20px;
+}
+.exc-task-list li .action-buttons a + a:before {
+	content: "|";
+	position: absolute;
+	left: -16px;
+}
+.exc-task-list li .action-buttons a:hover:before {
+	color: #0073aa;
+}
+.exc-task-list li .notice,
+.exc-task-list li div.error,
+.exc-task-list li div.updated {
+	margin: 0 0 10px;
+	-webkit-box-shadow: 0 0px 3px 0px rgba(0, 0, 0, 0.30);
+	box-shadow: 0 0px 3px 0px rgba(0, 0, 0, 0.30);
+}

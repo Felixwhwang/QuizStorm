@@ -1,0 +1,9 @@
+[17-Oct-2017 00:00:56 America/Denver] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[17-Oct-2017 00:01:15 America/Denver] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[17-Oct-2017 00:01:41 America/Denver] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[17-Oct-2017 00:01:58 America/Denver] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[17-Oct-2017 00:02:13 America/Denver] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[17-Oct-2017 00:02:23 America/Denver] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[17-Oct-2017 00:02:41 America/Denver] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[17-Oct-2017 00:02:57 America/Denver] PHP Fatal error:  Class 'WP_REST_Posts_Controller' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[17-Oct-2017 00:03:15 America/Denver] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17

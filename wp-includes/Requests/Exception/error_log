@@ -1,0 +1,2 @@
+[16-Oct-2017 21:34:34 America/Denver] PHP Fatal error:  Class 'Requests_Exception' not found in /home1/autombq6/public_html/quizstorm/wp-includes/Requests/Exception/HTTP.php on line 13
+[16-Oct-2017 21:35:26 America/Denver] PHP Fatal error:  Class 'Requests_Exception' not found in /home1/autombq6/public_html/quizstorm/wp-includes/Requests/Exception/Transport.php on line 3

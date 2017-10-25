@@ -1,0 +1,4608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uploader Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-29 21:50+0500\n"
+"PO-Revision-Date: 2015-10-06 09:37+0200\n"
+"Last-Translator: adminselfad <benjamingolder@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;_e:1;_c:1;_n:1,2;"
+"_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;"
+"_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+#, php-format
+msgid ""
+"Oops! It's looking like you may have taken a wrong turn please go back to our %s OR use our search "
+"form to explore relevent content."
+msgstr ""
+
+#: 404.php:19
+msgid "Home page!"
+msgstr "Accueil"
+
+#: category-list.php:15
+msgid "Browse Categories"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ce post est protégé par un mot de passe."
+
+#: comments.php:13 content-blog.php:65
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Un commentaire"
+msgstr[1] "%1$s Commentaires"
+
+#: comments.php:37
+msgid "load more"
+msgstr ""
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires anciens"
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Nouveaux commentaires &rarr;"
+
+#: comments.php:55
+msgid "The comments are closed on this post."
+msgstr "Les commentaires sont désactivés"
+
+#: contact.php:15 sidebar-dashboard.php:131
+msgid "contact us"
+msgstr "Contactez-nous"
+
+#: content-blog.php:19 includes/core/author_class.php:354 includes/core/author_class.php:449
+#: includes/views/widgets/users.php:68 sidebar-dashboard.php:44 sidebar-media.php:34
+#: users-grid-view.php:78 users-list-view.php:67
+msgid "Unfollow"
+msgstr "Ne plus suivre"
+
+#: content-blog.php:24 includes/core/author_class.php:358 includes/core/author_class.php:453
+#: includes/views/widgets/users.php:73 sidebar-dashboard.php:49 sidebar-media.php:39
+#: users-grid-view.php:83 users-list-view.php:72
+msgid "Follow"
+msgstr "Suivre"
+
+#: content-blog.php:35 sidebar-media.php:99
+msgid "Share This Media"
+msgstr "Partager"
+
+#: content-blog.php:72
+#, php-format
+msgctxt "extracoding uploader post views"
+msgid "%d views"
+msgstr "%d vues"
+
+#: content-blog.php:92
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire plus <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-grid-view.php:49 content-list-view.php:46 includes/core/author_class.php:660
+#, php-format
+msgid "One Like"
+msgid_plural "%1$s Likes"
+msgstr[0] "Un \"j'aime\""
+msgstr[1] "%1$s \"j'aime\""
+
+#: content-grid-view.php:60 content-list-view.php:57 includes/core/author_class.php:664
+#: sidebar-media.php:80
+msgid "Be the first to like it"
+msgstr "Soyez le premier à aimer !"
+
+#: content-grid-view.php:68 content-list-view.php:65
+msgid "Share on facebook"
+msgstr "Partager sur facebook"
+
+#: content-grid-view.php:72 content-list-view.php:69
+#, php-format
+msgid "Check out this amazing post on %s"
+msgstr ""
+
+#: content-grid-view.php:73 content-list-view.php:70
+msgid "Share on Twitter"
+msgstr "Partager sur twitter"
+
+#: content-grid-view.php:77 content-list-view.php:74
+msgctxt "extracoding uploader post dropdown date"
+msgid "d"
+msgstr "j"
+
+#: content-grid-view.php:78 content-list-view.php:75
+msgctxt "extracoding uploader post dropdown date"
+msgid "M"
+msgstr "M"
+
+#: content-grid-view.php:116 content-list-view.php:112
+msgctxt "post dropdown date format"
+msgid "d M"
+msgstr "j M"
+
+#: content-grid-view.php:127 content-grid-view2.php:56 content-list-view.php:123
+msgctxt "post author name"
+msgid "By"
+msgstr "Par"
+
+#: content-grid-view.php:174 content-grid-view2.php:111 content-list-view.php:170
+msgid "no tags are available"
+msgstr "Aucun tag"
+
+#: content-grid-view.php:187 content-grid-view2.php:124 content-list-view.php:183
+msgid "Edit"
+msgstr "Editer"
+
+#: content-grid-view.php:191 content-grid-view2.php:128 content-list-view.php:187
+msgid "Delete"
+msgstr "Supprimer"
+
+#: content-grid-view2.php:91
+msgid "Audio"
+msgstr "Audio"
+
+#: content-grid-view2.php:94
+msgid "Video"
+msgstr "Vidéo"
+
+#: content-grid-view2.php:97
+msgid "Image"
+msgstr "Image"
+
+#: content-grid-view2.php:100
+msgid "Article"
+msgstr "Article"
+
+#: content-no-media.php:3
+msgid "There is no media attached with this post"
+msgstr "Aucun média"
+
+#: content-none.php:6
+msgid "No"
+msgstr "Non"
+
+#: content-none.php:12
+msgid "media found"
+msgstr "trouvé..."
+
+#: content-none.php:13
+msgid "Sorry! but there is no media attached with this post."
+msgstr "Désolé ! Il n'y a pas de média dans ce post."
+
+#: content-none.php:15
+msgid "content found"
+msgstr "trouvé !"
+
+#: content-none.php:16
+msgid "Sorry! No content match <br>Please try again with different keywords."
+msgstr "Désolé ! Aucun résultat... "
+
+#: footer.php:24
+msgid "Copyright "
+msgstr ""
+
+#: footer.php:35 includes/views/author/subscription_form.php:6
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: footer.php:39 includes/views/author/subscription_form.php:16
+msgid "Subscribe"
+msgstr "S'inscrire"
+
+#: functions.php:116
+msgid "&larr; Previous"
+msgstr "&larr; Précédent"
+
+#: functions.php:117
+msgid "Next &rarr;"
+msgstr "Suivant &rarr;"
+
+#. translators: 1: date, 2: time
+#: functions.php:204
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: functions.php:207
+msgid "(edit)"
+msgstr "(éditer)"
+
+#: functions.php:211
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: functions.php:490 includes/core/author_class.php:542 includes/core/members_class.php:166
+#: includes/core/members_class.php:238 includes/core/members_class.php:257
+#: includes/core/members_class.php:361 includes/core/members_class.php:416
+#: includes/core/members_class.php:500 includes/core/members_class.php:555
+#: includes/core/uploader_class.php:420
+msgid "Page Expired!!"
+msgstr "Page expirée !"
+
+#: functions.php:520
+msgid "Thank you for contacting us, we will get back to you soon."
+msgstr "Merci de nous avoir contactés ! Nous vous répondrons dans les plus brefs délais."
+
+#: functions.php:560 functions.php:632
+msgid "Main Menu"
+msgstr "Menu principale"
+
+#: functions.php:561
+msgid "Footer Menu"
+msgstr "Pied de page"
+
+#: functions.php:669
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:673
+msgid "<span class=\"meta-nav\">Published In</span> \"%title\""
+msgstr "<span class=\"meta-nav\"> Publié dans </span> \"%title\""
+
+# .
+#: functions.php:675
+msgid "<span class=\"meta-nav previous\">Previous Post</span> \"%title\""
+msgstr "<span class=\"meta-nav previous\">Précédent</span> \"%title\""
+
+#: functions.php:676
+msgid "<span class=\"meta-nav\">Next Post</span> \"%title\""
+msgstr "<span class=\"meta-nav\">Post suivant</span> \"%title\""
+
+#: inc/edit_profile.php:56
+msgid "Select Gender"
+msgstr "Choisir un genre"
+
+#: inc/shortcodes.php:78
+msgid "Calling media uploader but it's down."
+msgstr "L'uploader semble ne pas fonctionner..."
+
+#: inc/shortcodes.php:114
+msgctxt "extracoding uploader contact form shortcode"
+msgid "You must prepare contact form fields before using it"
+msgstr ""
+
+#: inc/shortcodes.php:234
+msgid "Media search limit reached, please use filter to narrow search result."
+msgstr ""
+
+# .
+#: inc/shortcodes.php:385
+#, php-format
+msgid "%d media files"
+msgstr "%d médias"
+
+#: inc/shortcodes.php:426
+#, php-format
+msgid "Protected: %s"
+msgstr "Protégé: %s"
+
+#: inc/shortcodes.php:431
+#, php-format
+msgid "Private: %s"
+msgstr "Privé:%s"
+
+#: inc/shortcodes.php:713
+#, php-format
+msgid "%d users"
+msgstr "%d utilisateurs"
+
+#: includes/config/members/profile.php:9 includes/config/members/profile.php:13
+msgid "City"
+msgstr "Ville"
+
+#: includes/config/members/profile.php:20 includes/config/members/profile.php:24
+msgid "State"
+msgstr "Etat"
+
+#: includes/config/members/profile.php:32 includes/config/members/profile.php:36
+msgid "Country"
+msgstr "Pays"
+
+#: includes/config/members/profile.php:44 includes/config/members/profile.php:48
+msgid "About"
+msgstr "À propos"
+
+#: includes/config/members/profile.php:56 includes/config/theme_options/social_media_settings.php:22
+#: users-profile.php:175
+msgid "Facebook"
+msgstr ""
+
+#: includes/config/members/profile.php:67 includes/config/theme_options/social_media_settings.php:35
+#: users-profile.php:184
+msgid "Twitter"
+msgstr ""
+
+#: includes/config/members/profile.php:78
+msgid "Goolge+"
+msgstr ""
+
+#: includes/config/members/profile.php:89 includes/config/theme_options/social_media_settings.php:74
+#: users-profile.php:210
+msgid "Youtube"
+msgstr ""
+
+#: includes/config/members/profile.php:100 includes/config/theme_options/social_media_settings.php:87
+#: users-profile.php:219
+msgid "Vimeo"
+msgstr ""
+
+#: includes/config/members/profile.php:111
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/config/members/profile.php:122
+msgid "Behance"
+msgstr ""
+
+#: includes/config/members/profile.php:133
+msgid "Dribbble"
+msgstr ""
+
+#: includes/config/members/signup.php:10 includes/config/members/signup.php:14
+#: includes/config/theme_options/header_settings.php:391
+#: includes/config/theme_options/header_settings.php:815
+#: includes/config/theme_options/header_settings.php:1243 includes/views/author/subscription_form.php:10
+#: modules/templates/members.php:34 modules/templates/members.php:76 modules/templates/members.php:105
+#: users-profile.php:112 users-profile.php:147
+msgid "Email Address"
+msgstr "Adresse mail"
+
+#: includes/config/members/signup.php:22 includes/config/members/signup.php:26
+#: modules/templates/members.php:94
+msgid "First name"
+msgstr "Prénom"
+
+#: includes/config/members/signup.php:34 includes/config/members/signup.php:38
+#: modules/templates/members.php:97
+msgid "Last name"
+msgstr "Nom"
+
+#: includes/config/members/signup.php:46 includes/config/members/signup.php:50
+#: includes/config/theme_options/mail_settings.php:122 modules/templates/members.php:102
+msgid "Username"
+msgstr "Identifiant"
+
+#: includes/config/members/signup.php:58 includes/config/members/signup.php:62
+#: includes/config/uploader/frontend_post.php:101 includes/core/members_class.php:364
+#: modules/templates/members.php:53 modules/templates/members.php:77 modules/templates/members.php:108
+#: users-profile.php:95
+msgid "Password"
+msgstr "Mot de passe"
+
+#: includes/config/metaboxes/embed_media.php:5 includes/config/theme_options/settings.php:5
+#: includes/thirdparty/exc-framework/core/options_class.php:105
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: includes/config/metaboxes/embed_media.php:13
+msgid "Media Settings"
+msgstr "Média config"
+
+#: includes/config/metaboxes/embed_media.php:14 includes/config/theme_options/blog_settings.php:14
+#, php-format
+msgid ""
+"Responsive Web design is the approach that suggests that design and development should respond to the "
+"user's behavior and environment based on screen size, platform and orientation. %s"
+msgstr ""
+
+#: includes/config/metaboxes/embed_media.php:22 includes/config/widgets/twitter.php:23
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/config/metaboxes/embed_media.php:29 includes/config/widgets/twitter.php:31
+msgid "The thumbnail of POST."
+msgstr ""
+
+#: includes/config/metaboxes/embed_media.php:33 includes/config/theme_options/notifications.php:70
+#: includes/config/uploader/frontend_post.php:10 includes/config/widgets/advanced_posts.php:10
+#: includes/config/widgets/radio.php:10 includes/config/widgets/staff_picked.php:10
+#: includes/config/widgets/twitter.php:10 includes/config/widgets/users.php:10
+msgid "Title"
+msgstr "Titre"
+
+#: includes/config/metaboxes/embed_media.php:40 includes/config/widgets/staff_picked.php:19
+#: includes/config/widgets/users.php:139
+msgid "Enable or Disable responsive functionality."
+msgstr "Activer ou désactiver le mode responsive"
+
+#: includes/config/metaboxes/embed_media.php:44 includes/config/theme_options/blog_settings.php:113
+#: includes/config/theme_options/manage_sidebars.php:48 includes/config/uploader/frontend_post.php:22
+#: includes/config/widgets/twitter.php:35
+msgid "Description"
+msgstr "Description"
+
+#: includes/config/metaboxes/embed_media.php:51 includes/config/metaboxes/embed_media.php:62
+#: includes/config/metaboxes/embed_media.php:72 includes/config/metaboxes/embed_media.php:84
+#: includes/config/metaboxes/embed_media.php:95 includes/config/metaboxes/embed_media.php:108
+#: includes/config/widgets/twitter.php:43 includes/config/widgets/twitter.php:54
+#: includes/config/widgets/twitter.php:64 includes/config/widgets/twitter.php:76
+#: includes/config/widgets/twitter.php:87
+msgid "All users will be forced to login from frontend only."
+msgstr "Tout le monde devra s'identifier depuis le site seulement."
+
+#: includes/config/metaboxes/embed_media.php:55 includes/config/uploader/frontend_post.php:54
+#: includes/config/widgets/twitter.php:47
+msgid "Tags"
+msgstr ""
+
+#: includes/config/metaboxes/embed_media.php:66 includes/config/uploader/frontend_post.php:140
+#: includes/config/widgets/twitter.php:58
+msgid "License"
+msgstr "Licence"
+
+#: includes/config/metaboxes/embed_media.php:76 includes/config/widgets/twitter.php:68
+msgid "Avatar"
+msgstr ""
+
+#: includes/config/metaboxes/embed_media.php:88 includes/config/widgets/twitter.php:80
+msgid "name"
+msgstr "Nom"
+
+#: includes/config/metaboxes/embed_media.php:102
+msgid "Sync"
+msgstr ""
+
+#: includes/config/metaboxes/embed_media.php:112
+msgid "Interval"
+msgstr "Intervalle"
+
+#: includes/config/metaboxes/embed_media.php:119
+msgid "In second default is 1 day."
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:12 includes/config/taxonomy/category.php:13
+#: includes/config/taxonomy/genre.php:12 includes/config/theme_options/layout_settings.php:6
+msgid "Layout Settings"
+msgstr "Paramètre d'affichage"
+
+#: includes/config/metaboxes/layout_settings.php:13
+msgid "This section helps you to change the layout structure of the page."
+msgstr "Cette section vous permet de changer la structure de l'affichage de la page"
+
+#: includes/config/metaboxes/layout_settings.php:19 includes/config/taxonomy/category.php:37
+#: includes/config/taxonomy/genre.php:28 includes/config/theme_options/layout_settings.php:37
+#: includes/config/theme_options/layout_settings.php:188
+#: includes/config/theme_options/layout_settings.php:408
+#: includes/config/theme_options/layout_settings.php:628
+#: includes/config/theme_options/layout_settings.php:839
+#: includes/config/theme_options/layout_settings.php:1009
+#: includes/config/theme_options/layout_settings.php:1176
+#: includes/config/theme_options/layout_settings.php:1319
+#: includes/config/theme_options/layout_settings.php:1419
+msgid "Header"
+msgstr "En-tête "
+
+#: includes/config/metaboxes/layout_settings.php:24 includes/config/taxonomy/category.php:42
+#: includes/config/taxonomy/genre.php:33 includes/config/theme_options/layout_settings.php:413
+#: includes/config/theme_options/layout_settings.php:633
+#: includes/config/theme_options/layout_settings.php:844
+#: includes/config/theme_options/layout_settings.php:1014
+#: includes/config/theme_options/layout_settings.php:1181
+#: includes/config/theme_options/layout_settings.php:1324
+#: includes/config/theme_options/layout_settings.php:1424
+msgid "Header Default"
+msgstr "En-tête par défaut"
+
+#: includes/config/metaboxes/layout_settings.php:25 includes/config/taxonomy/category.php:43
+#: includes/config/taxonomy/genre.php:34 includes/config/theme_options/layout_settings.php:414
+#: includes/config/theme_options/layout_settings.php:634
+#: includes/config/theme_options/layout_settings.php:845
+#: includes/config/theme_options/layout_settings.php:1015
+#: includes/config/theme_options/layout_settings.php:1182
+#: includes/config/theme_options/layout_settings.php:1325
+#: includes/config/theme_options/layout_settings.php:1425
+msgid "Header with logo in Center"
+msgstr "En-tête avec logo au centre"
+
+#: includes/config/metaboxes/layout_settings.php:26 includes/config/taxonomy/category.php:44
+#: includes/config/taxonomy/genre.php:35 includes/config/theme_options/layout_settings.php:415
+#: includes/config/theme_options/layout_settings.php:635
+#: includes/config/theme_options/layout_settings.php:846
+#: includes/config/theme_options/layout_settings.php:1016
+#: includes/config/theme_options/layout_settings.php:1183
+#: includes/config/theme_options/layout_settings.php:1326
+#: includes/config/theme_options/layout_settings.php:1426
+msgid "Header Classic"
+msgstr "En-tête classic"
+
+#: includes/config/metaboxes/layout_settings.php:30 includes/config/taxonomy/category.php:48
+#: includes/config/taxonomy/genre.php:39
+msgid "Select a header for this page."
+msgstr "Sélectionner un en-tête pour cette page"
+
+#: includes/config/metaboxes/layout_settings.php:34 includes/config/taxonomy/category.php:52
+#: includes/config/taxonomy/genre.php:43 includes/config/theme_options/layout_settings.php:52
+#: includes/config/theme_options/layout_settings.php:203
+#: includes/config/theme_options/layout_settings.php:423
+#: includes/config/theme_options/layout_settings.php:643
+#: includes/config/theme_options/layout_settings.php:1024
+#: includes/config/theme_options/layout_settings.php:1191
+#: includes/config/theme_options/layout_settings.php:1434
+msgid "Slider"
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:43 includes/config/taxonomy/category.php:61
+#: includes/config/taxonomy/genre.php:52 includes/config/theme_options/layout_settings.php:61
+#: includes/config/theme_options/layout_settings.php:212
+#: includes/config/theme_options/layout_settings.php:432
+#: includes/config/theme_options/layout_settings.php:652
+#: includes/config/theme_options/layout_settings.php:1033
+#: includes/config/theme_options/layout_settings.php:1200
+#: includes/config/theme_options/layout_settings.php:1443
+msgid "No Slider"
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:48 includes/config/taxonomy/category.php:66
+#: includes/config/taxonomy/genre.php:57 includes/config/theme_options/layout_settings.php:66
+#: includes/config/theme_options/layout_settings.php:217
+#: includes/config/theme_options/layout_settings.php:437
+#: includes/config/theme_options/layout_settings.php:657
+#: includes/config/theme_options/layout_settings.php:1038
+#: includes/config/theme_options/layout_settings.php:1205
+#: includes/config/theme_options/layout_settings.php:1448
+msgid "Uploader"
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:53 includes/config/taxonomy/category.php:71
+#: includes/config/taxonomy/genre.php:62 includes/config/theme_options/layout_settings.php:71
+#: includes/config/theme_options/layout_settings.php:222
+#: includes/config/theme_options/layout_settings.php:442
+#: includes/config/theme_options/layout_settings.php:662
+#: includes/config/theme_options/layout_settings.php:1043
+#: includes/config/theme_options/layout_settings.php:1210
+#: includes/config/theme_options/layout_settings.php:1453
+msgid "Revolution Slider"
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:60 includes/config/taxonomy/category.php:78
+#: includes/config/taxonomy/genre.php:69
+msgid "Select a slider for this page."
+msgstr "Sélectionner un slider pour cette page"
+
+#: includes/config/metaboxes/layout_settings.php:64 includes/config/taxonomy/category.php:82
+#: includes/config/taxonomy/genre.php:73 includes/config/theme_options/layout_settings.php:82
+#: includes/config/theme_options/layout_settings.php:233
+#: includes/config/theme_options/layout_settings.php:453
+#: includes/config/theme_options/layout_settings.php:673
+#: includes/config/theme_options/layout_settings.php:1054
+#: includes/config/theme_options/layout_settings.php:1221
+#: includes/config/theme_options/layout_settings.php:1464
+msgid "Revolution Slider id"
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:73 includes/config/taxonomy/category.php:91
+#: includes/config/taxonomy/genre.php:82 includes/config/theme_options/layout_settings.php:91
+#: includes/config/theme_options/layout_settings.php:242
+#: includes/config/theme_options/layout_settings.php:462
+#: includes/config/theme_options/layout_settings.php:682
+#: includes/config/theme_options/layout_settings.php:1063
+#: includes/config/theme_options/layout_settings.php:1230
+#: includes/config/theme_options/layout_settings.php:1473
+msgid ""
+"Select a revolution slider. <br /><br /><i> <strong>Note: </strong>You can manage this list by adding "
+"or removing sliders in revolution slider</i>."
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:78 includes/config/taxonomy/category.php:96
+#: includes/config/taxonomy/genre.php:87 includes/config/theme_options/general_settings.php:84
+#: includes/config/theme_options/layout_settings.php:96
+#: includes/config/theme_options/layout_settings.php:247
+#: includes/config/theme_options/layout_settings.php:467
+#: includes/config/theme_options/layout_settings.php:687
+#: includes/config/theme_options/layout_settings.php:855
+#: includes/config/theme_options/layout_settings.php:1068
+#: includes/config/theme_options/layout_settings.php:1235
+#: includes/config/theme_options/layout_settings.php:1335
+#: includes/config/theme_options/layout_settings.php:1478
+msgid "Layout"
+msgstr "Disposition"
+
+#: includes/config/metaboxes/layout_settings.php:128 includes/config/taxonomy/category.php:147
+msgid "Select a layout structure."
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:133 includes/config/taxonomy/category.php:152
+#: includes/config/taxonomy/genre.php:143 includes/config/theme_options/layout_settings.php:153
+#: includes/config/theme_options/layout_settings.php:304
+#: includes/config/theme_options/layout_settings.php:525
+#: includes/config/theme_options/layout_settings.php:744
+#: includes/config/theme_options/layout_settings.php:912
+#: includes/config/theme_options/layout_settings.php:1125
+#: includes/config/theme_options/layout_settings.php:1293
+#: includes/config/theme_options/layout_settings.php:1392
+#: includes/config/theme_options/layout_settings.php:1535
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:142 includes/config/taxonomy/category.php:161
+#: includes/config/taxonomy/genre.php:152 includes/config/theme_options/layout_settings.php:162
+#: includes/config/theme_options/layout_settings.php:313
+#: includes/config/theme_options/layout_settings.php:533
+#: includes/config/theme_options/layout_settings.php:753
+#: includes/config/theme_options/layout_settings.php:921
+#: includes/config/theme_options/layout_settings.php:1134
+#: includes/config/theme_options/layout_settings.php:1301
+#: includes/config/theme_options/layout_settings.php:1401
+#: includes/config/theme_options/layout_settings.php:1544
+msgid "Select a sidebar to show as left sidebar."
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:146 includes/config/taxonomy/category.php:165
+#: includes/config/taxonomy/genre.php:156 includes/config/theme_options/layout_settings.php:166
+#: includes/config/theme_options/layout_settings.php:317
+#: includes/config/theme_options/layout_settings.php:537
+#: includes/config/theme_options/layout_settings.php:757
+#: includes/config/theme_options/layout_settings.php:925
+#: includes/config/theme_options/layout_settings.php:1138
+#: includes/config/theme_options/layout_settings.php:1305
+#: includes/config/theme_options/layout_settings.php:1405
+#: includes/config/theme_options/layout_settings.php:1548
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/config/metaboxes/layout_settings.php:155 includes/config/taxonomy/category.php:174
+#: includes/config/taxonomy/genre.php:165 includes/config/theme_options/layout_settings.php:175
+#: includes/config/theme_options/layout_settings.php:326
+#: includes/config/theme_options/layout_settings.php:546
+#: includes/config/theme_options/layout_settings.php:766
+#: includes/config/theme_options/layout_settings.php:934
+#: includes/config/theme_options/layout_settings.php:1147
+#: includes/config/theme_options/layout_settings.php:1314
+#: includes/config/theme_options/layout_settings.php:1414
+#: includes/config/theme_options/layout_settings.php:1557
+msgid "Select a sidebar to show as right sidebar."
+msgstr ""
+
+#: includes/config/metaboxes/radio_settings.php:12 includes/launcher.php:238
+msgid "Page Settings"
+msgstr "Paramètres"
+
+#: includes/config/metaboxes/radio_settings.php:14
+msgid ""
+"This section is related to station settings, here you can manage the list of audio's you want to play "
+"along with page layout settings."
+msgstr ""
+
+#: includes/config/metaboxes/radio_settings.php:20
+msgid "Select Audios"
+msgstr "Choisir morceau"
+
+#: includes/config/metaboxes/radio_settings.php:28
+msgid "Upload or Select the list of audio files you want to play in this radio station."
+msgstr "Uploadez ou choisissez une liste de morceau à diffuser."
+
+#: includes/config/metaboxes/radio_settings.php:169 includes/config/taxonomy/category.php:29
+msgid "Icon Class"
+msgstr ""
+
+#: includes/config/metaboxes/radio_settings.php:173 includes/config/taxonomy/category.php:33
+msgid "Enter the font-awesome or CSS icon class."
+msgstr ""
+
+#: includes/config/metaboxes/radio_settings.php:177 includes/config/taxonomy/category.php:250
+#: includes/config/theme_options/footer_settings.php:119
+#: includes/config/theme_options/header_settings.php:119
+#: includes/config/theme_options/header_settings.php:317
+#: includes/config/theme_options/header_settings.php:439
+#: includes/config/theme_options/header_settings.php:496
+#: includes/config/theme_options/header_settings.php:863
+#: includes/config/theme_options/header_settings.php:924
+#: includes/config/theme_options/header_settings.php:1169
+#: includes/config/theme_options/notifications.php:125
+msgid "Background Color"
+msgstr "Couleur de l'arrière plan"
+
+#: includes/config/metaboxes/radio_settings.php:182
+msgid "Select the item background color, default is #ccc999."
+msgstr "Choisir le code couleur de l'arrière plan (par défaut #ccc999)"
+
+#: includes/config/taxonomy/category.php:14 includes/config/taxonomy/genre.php:13
+msgid "Change the default layout structure."
+msgstr "Changer la disposition par défaut."
+
+#: includes/config/taxonomy/category.php:21
+msgid "Category Image"
+msgstr "Catégorie image"
+
+#: includes/config/taxonomy/category.php:25
+msgid "Upload or Enter a url of category image, the preferable size is ( 150 x 150 )."
+msgstr "Uploader ou renseigner url d'une catégorie image, taille préférée ( 150 x 150 ). "
+
+#: includes/config/taxonomy/category.php:179 includes/config/theme_options/layout_settings.php:330
+#: includes/config/theme_options/layout_settings.php:550
+#: includes/config/theme_options/layout_settings.php:770
+#: includes/config/theme_options/layout_settings.php:938
+msgid "Show Posts"
+msgstr "Montrer postes. "
+
+#: includes/config/taxonomy/category.php:183 includes/config/theme_options/layout_settings.php:334
+#: includes/config/theme_options/layout_settings.php:554
+#: includes/config/theme_options/layout_settings.php:774
+#: includes/config/theme_options/layout_settings.php:942
+msgid "Wordpress Blog Posts"
+msgstr ""
+
+#: includes/config/taxonomy/category.php:184 includes/config/theme_options/layout_settings.php:335
+#: includes/config/theme_options/layout_settings.php:555
+#: includes/config/theme_options/layout_settings.php:775
+#: includes/config/theme_options/layout_settings.php:943
+msgid "Extracoding Uploader Audio Posts"
+msgstr ""
+
+#: includes/config/taxonomy/category.php:185 includes/config/theme_options/layout_settings.php:336
+#: includes/config/theme_options/layout_settings.php:556
+#: includes/config/theme_options/layout_settings.php:776
+#: includes/config/theme_options/layout_settings.php:944
+msgid "Extracoding Uploader Video Posts"
+msgstr ""
+
+#: includes/config/taxonomy/category.php:186 includes/config/theme_options/layout_settings.php:337
+#: includes/config/theme_options/layout_settings.php:557
+#: includes/config/theme_options/layout_settings.php:777
+#: includes/config/theme_options/layout_settings.php:945
+msgid "Extracoding Uploader Images Posts"
+msgstr ""
+
+#: includes/config/taxonomy/category.php:191 includes/config/theme_options/layout_settings.php:341
+#: includes/config/theme_options/layout_settings.php:561
+#: includes/config/theme_options/layout_settings.php:781
+#: includes/config/theme_options/layout_settings.php:949
+msgid "Show posts from selected sections."
+msgstr "Montrer les postes des sections choisies"
+
+#: includes/config/taxonomy/category.php:195 includes/config/theme_options/layout_settings.php:346
+#: includes/config/theme_options/layout_settings.php:566
+#: includes/config/theme_options/layout_settings.php:786
+#: includes/config/theme_options/layout_settings.php:954
+#: includes/config/theme_options/layout_settings.php:1577
+msgid "Filtration"
+msgstr "Filtre"
+
+#: includes/config/taxonomy/category.php:199
+msgid "Show or hide filtration on this page."
+msgstr "Montrer ou cacher la filtration sur cette page."
+
+#: includes/config/taxonomy/category.php:203 includes/config/theme_options/blog_settings.php:26
+#: includes/config/theme_options/layout_settings.php:354
+#: includes/config/theme_options/layout_settings.php:574
+#: includes/config/theme_options/layout_settings.php:794
+#: includes/config/theme_options/layout_settings.php:962
+msgid "Default View"
+msgstr "Vue par défaut"
+
+#: includes/config/taxonomy/category.php:208 includes/config/theme_options/blog_settings.php:33
+#: includes/config/theme_options/layout_settings.php:359
+#: includes/config/theme_options/layout_settings.php:579
+#: includes/config/theme_options/layout_settings.php:799
+#: includes/config/theme_options/layout_settings.php:967
+msgid "Grid View"
+msgstr ""
+
+#: includes/config/taxonomy/category.php:209 includes/config/theme_options/layout_settings.php:360
+#: includes/config/theme_options/layout_settings.php:580
+#: includes/config/theme_options/layout_settings.php:800
+#: includes/config/theme_options/layout_settings.php:968
+msgid "List View"
+msgstr "Voir liste"
+
+#: includes/config/taxonomy/category.php:213 includes/config/theme_options/layout_settings.php:364
+#: includes/config/theme_options/layout_settings.php:584
+#: includes/config/theme_options/layout_settings.php:804
+#: includes/config/theme_options/layout_settings.php:972
+msgid "Select the default posts view."
+msgstr "Choisir la vue par défaut des posts"
+
+#: includes/config/taxonomy/category.php:217 includes/config/taxonomy/genre.php:169
+#: includes/config/theme_options/layout_settings.php:368
+#: includes/config/theme_options/layout_settings.php:588
+#: includes/config/theme_options/layout_settings.php:808
+#: includes/config/theme_options/layout_settings.php:976
+msgid "Grid View Columns"
+msgstr ""
+
+#: includes/config/taxonomy/category.php:222 includes/config/taxonomy/category.php:239
+#: includes/config/taxonomy/genre.php:174 includes/config/theme_options/blog_settings.php:50
+#: includes/config/theme_options/layout_settings.php:373
+#: includes/config/theme_options/layout_settings.php:390
+#: includes/config/theme_options/layout_settings.php:593
+#: includes/config/theme_options/layout_settings.php:610
+#: includes/config/theme_options/layout_settings.php:813
+#: includes/config/theme_options/layout_settings.php:830
+#: includes/config/theme_options/layout_settings.php:981
+#: includes/config/theme_options/layout_settings.php:999
+#: includes/config/theme_options/layout_settings.php:1156
+#: includes/config/theme_options/layout_settings.php:1590
+msgid "2 Columns"
+msgstr "2 colonnes"
+
+#: includes/config/taxonomy/category.php:223 includes/config/taxonomy/genre.php:175
+#: includes/config/theme_options/blog_settings.php:51
+#: includes/config/theme_options/layout_settings.php:374
+#: includes/config/theme_options/layout_settings.php:594
+#: includes/config/theme_options/layout_settings.php:814
+#: includes/config/theme_options/layout_settings.php:982
+#: includes/config/theme_options/layout_settings.php:1157
+#: includes/config/theme_options/layout_settings.php:1591
+msgid "3 Columns"
+msgstr "3 colonnes"
+
+#: includes/config/taxonomy/category.php:224 includes/config/taxonomy/genre.php:176
+#: includes/config/theme_options/blog_settings.php:52
+#: includes/config/theme_options/layout_settings.php:375
+#: includes/config/theme_options/layout_settings.php:595
+#: includes/config/theme_options/layout_settings.php:815
+#: includes/config/theme_options/layout_settings.php:983
+#: includes/config/theme_options/layout_settings.php:1158
+#: includes/config/theme_options/layout_settings.php:1592
+msgid "4 Columns"
+msgstr "4 colonnes"
+
+#: includes/config/taxonomy/category.php:229 includes/config/theme_options/layout_settings.php:380
+#: includes/config/theme_options/layout_settings.php:600
+#: includes/config/theme_options/layout_settings.php:820
+msgid "Select the number of columns for grid view."
+msgstr "Spécifier nombre de colonnes."
+
+#: includes/config/taxonomy/category.php:233 includes/config/theme_options/layout_settings.php:384
+#: includes/config/theme_options/layout_settings.php:604
+#: includes/config/theme_options/layout_settings.php:824
+#: includes/config/theme_options/layout_settings.php:993
+msgid "List View Columns"
+msgstr ""
+
+#: includes/config/taxonomy/category.php:238 includes/config/theme_options/layout_settings.php:389
+#: includes/config/theme_options/layout_settings.php:609
+#: includes/config/theme_options/layout_settings.php:829
+#: includes/config/theme_options/layout_settings.php:998
+msgid "1 Columns"
+msgstr "1 colonne"
+
+#: includes/config/taxonomy/category.php:244 includes/config/theme_options/layout_settings.php:395
+#: includes/config/theme_options/layout_settings.php:615
+#: includes/config/theme_options/layout_settings.php:835
+#: includes/config/theme_options/layout_settings.php:1004
+msgid "Select the number of columns for list view."
+msgstr "Spécifier le nombre de colonnes pour la vue des listes"
+
+#: includes/config/taxonomy/category.php:254
+msgid "Select a background color for browse categories page."
+msgstr "Choisir couleur d'arrière-plan pour la page de parcours des catégories."
+
+#: includes/config/taxonomy/genre.php:20
+msgid "Genre Image"
+msgstr ""
+
+#: includes/config/taxonomy/genre.php:24
+msgid "Upload or Enter a url of Genre image, the preferable size is ( 150 x 150 )."
+msgstr ""
+
+#: includes/config/taxonomy/genre.php:138
+msgid "Select the layout structure."
+msgstr "Choisir une diposition"
+
+#: includes/config/taxonomy/genre.php:181
+msgid "Change the number of columns."
+msgstr "Changer le nombre de colonnes."
+
+#: includes/config/theme_options/blog_settings.php:4
+msgid "Blog Settings"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:13
+msgid "View Settings"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:19
+msgid "Post Settings"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:20
+#, php-format
+msgid ""
+"A favicon is the little icon that browsers display next to a page's title on a browser tab, or in the "
+"address bar next to its URL. It also is used when you bookmark a page. %s."
+msgstr ""
+"Une favicône est la petite icône que votre navigateur affiche à côté du titre de la page, dans la "
+"barre d'adresse URL, ainsi que dans vos Favoris. %s."
+
+#: includes/config/theme_options/blog_settings.php:34
+msgid "Masonry View"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:39 includes/config/theme_options/blog_settings.php:57
+msgid "if the columns are not selected the default settings will work."
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:43
+msgid "Default Columns"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:61
+msgid "Show Sidebar"
+msgstr "Montrer la barre latérale"
+
+#: includes/config/theme_options/blog_settings.php:68
+msgid "Show or hide sidebar."
+msgstr "Montrer ou masquer la barre latérale."
+
+#: includes/config/theme_options/blog_settings.php:84
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: includes/config/theme_options/blog_settings.php:91
+msgid "Hide Dropdown"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:92
+msgid "Top Image Dropdown"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:93
+msgid "Bottom Dropdown"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:97
+msgid "The dropdown which contain like or add to faviourite icon."
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:120
+msgid "Hide Description"
+msgstr "Cacher description"
+
+#: includes/config/theme_options/blog_settings.php:121
+msgid "Wordpress Excerpt Function"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:122
+msgid "Wordpress Content Function"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:126
+msgid "The WordPress Excerpt is an optional summary or description of a post."
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:130
+msgid "Words Limit"
+msgstr "Limite de mots"
+
+#: includes/config/theme_options/blog_settings.php:138
+msgid ""
+"Number of words, Useful specially when you're using grid view, 0 to use default wordpress excerpt "
+"value."
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:142
+msgid "Show Author"
+msgstr "Montrer l'auteur"
+
+#: includes/config/theme_options/blog_settings.php:149
+#: includes/config/theme_options/blog_settings.php:160
+msgid "Show or hide tags."
+msgstr "Montrer ou cacher les tags"
+
+#: includes/config/theme_options/blog_settings.php:153
+msgid "Show Stats"
+msgstr "Montrer statistiques"
+
+#: includes/config/theme_options/blog_settings.php:164
+msgid "Show Tags"
+msgstr "Montrer les tags"
+
+#: includes/config/theme_options/blog_settings.php:171
+msgid "Show or HIde tags."
+msgstr "Montrer ou masquer les tags."
+
+#: includes/config/theme_options/blog_settings.php:175
+msgid "Show Controls"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:182
+#: includes/config/theme_options/blog_settings.php:193
+msgid "Show edit or delete controls if the post belongs to users."
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:186 includes/config/widgets/users.php:75
+msgid "Pagination"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:200
+msgid "Thumbnail Border color"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:207
+#: includes/config/theme_options/blog_settings.php:218
+#: includes/config/theme_options/blog_settings.php:229
+msgid "Change homepage banner text margin bottom."
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:211
+msgid "Thumbnail Margin Bottom"
+msgstr ""
+
+#: includes/config/theme_options/blog_settings.php:222
+msgid "Thumbnail Background Color"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:4
+msgid "Footer Settings"
+msgstr "Paramètres du pied-de-page "
+
+#: includes/config/theme_options/footer_settings.php:15
+msgid "Footer General Settings"
+msgstr "Paramètres généraux du pied-de-page"
+
+#: includes/config/theme_options/footer_settings.php:16
+msgid "In this section you can change or update footer area settings.</i></p>"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:25
+msgid "Style Settings"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:26
+msgid ""
+"This section is related to footer style settings. <p><i><strong>Note: </strong>All the blanked fields "
+"will be automatically replaced with stylesheets value.</i></p>"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:32
+msgid "Sticky Footer"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:40
+msgid "Stick footer on the page."
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:45
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:53
+msgid "Enter the copyright text to display on footer bar."
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:130
+msgid "Change the footer background color. (default: #1b1b1b)"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:135
+msgid "Right Area Background Color"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:146
+msgid "Change the footer right side background color. (default: #000000)"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:150
+msgid "Text color"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:161
+msgid "Change the footer text color. (default: #ffffff)"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:165
+msgid "Menu Text Color"
+msgstr ""
+
+#: includes/config/theme_options/footer_settings.php:176
+msgid "Change the footer menu text color. (default: #ffffff)"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:4
+msgid "General Settings"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:12
+msgid "Favicon Settings"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:14
+#, php-format
+msgid ""
+"A favicon is the little icon that browsers display next to a page's title on a browser tab, or in the "
+"address bar next to its URL. It is also used when you bookmark a page. %s or for Apple icons %s."
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:21
+msgid "Change Website Layout"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:22
+msgid "Switch the default website layout between full-width and boxed-width"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:27
+msgid "Favicon"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:34
+msgid "Upload or enter a url for favicon. (size: 16x16)"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:38
+msgid "iPhone Touch Icon"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:45
+msgid "Upload or enter a url for iPhone touch icon."
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:49
+msgid "iPad Touch Icon"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:56
+msgid "Upload or enter a url for iPad touch icon. (size: 76x76)"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:60
+msgid "iPhone Retina Touch Icon"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:67
+msgid "Upload or enter a url for iPhone retina touch icon. (size: 120x120)"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:71
+msgid "iPad Retina Touch Icon"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:78
+msgid "Upload or enter a url for iPad retina touch icon. (size: 152x152)"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:107
+msgid "Change the website structure"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:111
+msgid "Background Pattern"
+msgstr ""
+
+#: includes/config/theme_options/general_settings.php:121
+msgid "Upload image to use as background pattern."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:4
+msgid "Header Settings"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:11
+msgid "Logo Settings"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:12
+msgid ""
+"The logo section helps you to easily replace or update website logo along with custom width or height "
+"settings."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:17
+#, php-format
+msgid "%s <hr /> Header Default Settings"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:21
+msgid "The following settings are related to default header."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:27
+#, php-format
+msgid "%s <hr /> Header Center Settings"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:31
+msgid "The following settings are related to the header center."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:36
+#, php-format
+msgid "%s <hr /> Header Classic Settings"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:40
+msgid "The following settings are related to the header classic."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:45
+msgid "Logo"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:53
+msgid "Upload or enter a url for website logo. (default logo size: 244x24)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:57
+msgid "Logo Width"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:69
+msgid "Change the width of logo (default: auto)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:73
+msgid "Logo Height"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:89
+msgid "Change the height of logo (default: auto)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:94
+#: includes/config/theme_options/notifications.php:83
+msgid "Sticky"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:100
+msgid "Show the header on page scroll."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:104
+#: includes/config/theme_options/header_settings.php:481
+#: includes/config/theme_options/header_settings.php:909
+msgid "Background Image"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:115
+#: includes/config/theme_options/header_settings.php:492
+#: includes/config/theme_options/header_settings.php:920
+msgid "Change the header background image."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:131
+#: includes/config/theme_options/header_settings.php:508
+#: includes/config/theme_options/header_settings.php:936
+msgid "Change the header background color (default: #000000)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:135
+#: includes/config/theme_options/header_settings.php:512
+#: includes/config/theme_options/header_settings.php:940
+msgid "Transparency"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:145
+#: includes/config/theme_options/header_settings.php:527
+#: includes/config/theme_options/header_settings.php:955
+msgid "Change the header transparency (default: 0.2)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:149
+#: includes/config/theme_options/header_settings.php:273
+#: includes/config/theme_options/header_settings.php:381
+#: includes/config/theme_options/header_settings.php:573
+#: includes/config/theme_options/header_settings.php:697
+#: includes/config/theme_options/header_settings.php:805
+#: includes/config/theme_options/header_settings.php:1001
+#: includes/config/theme_options/header_settings.php:1125
+#: includes/config/theme_options/header_settings.php:1233
+#: includes/config/theme_options/mail_settings.php:185
+#: includes/config/theme_options/mail_settings.php:320
+#: includes/config/theme_options/mail_settings.php:376
+#: includes/config/theme_options/mail_settings.php:432
+#: includes/config/theme_options/member_settings.php:29
+#: includes/config/theme_options/notifications.php:31
+#: includes/config/theme_options/uploader_settings.php:23
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:155
+#: includes/config/theme_options/header_settings.php:579
+#: includes/config/theme_options/header_settings.php:1007
+msgid "Show or hide the main menu from the header."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:180
+#: includes/config/theme_options/header_settings.php:425
+#: includes/config/theme_options/header_settings.php:604
+#: includes/config/theme_options/header_settings.php:849
+#: includes/config/theme_options/header_settings.php:1032
+#: includes/config/theme_options/notifications.php:136
+msgid "Text Color"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:192
+#: includes/config/theme_options/header_settings.php:616
+#: includes/config/theme_options/header_settings.php:1044
+msgid "Change the main menu text color (default: #cad5e2)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:196
+#: includes/config/theme_options/header_settings.php:620
+#: includes/config/theme_options/header_settings.php:1048
+msgid "Text Hover Color"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:207
+#: includes/config/theme_options/header_settings.php:631
+#: includes/config/theme_options/header_settings.php:1059
+msgid "Change the main menu text hover color (default: #46aaed)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:211
+#: includes/config/theme_options/header_settings.php:635
+#: includes/config/theme_options/header_settings.php:1063
+msgid "Padding Top"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:223
+msgid "Change the top padding of the main menu items (default: 38px)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:227
+#: includes/config/theme_options/header_settings.php:651
+#: includes/config/theme_options/header_settings.php:1079
+msgid "Padding Right"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:238
+#: includes/config/theme_options/header_settings.php:662
+#: includes/config/theme_options/header_settings.php:1090
+msgid "Change the right padding of the main menu items (default: 25px)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:242
+#: includes/config/theme_options/header_settings.php:666
+#: includes/config/theme_options/header_settings.php:1094
+msgid "Padding Bottom"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:254
+msgid "Change the bottom padding of the main menu items (default: 38px)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:258
+#: includes/config/theme_options/header_settings.php:682
+#: includes/config/theme_options/header_settings.php:1110
+msgid "Padding Left"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:269
+#: includes/config/theme_options/header_settings.php:693
+#: includes/config/theme_options/header_settings.php:1121
+msgid "Change the left padding of the main menu items (default: 25px)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:281
+#, php-format
+msgid ""
+"Show or hide the user controls from header section. <br /><br /><i> <strong>Note: </strong> this "
+"option will work only if members status is active in %s</i>."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:287
+#: includes/config/theme_options/header_settings.php:711
+#: includes/config/theme_options/header_settings.php:1139
+msgid "Color"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:298
+#: includes/config/theme_options/header_settings.php:722
+#: includes/config/theme_options/header_settings.php:1150
+msgid "Change the member controls text & icons color (default: #ffffff)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:302
+#: includes/config/theme_options/header_settings.php:726
+#: includes/config/theme_options/header_settings.php:1154
+msgid "Border Color"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:313
+#: includes/config/theme_options/header_settings.php:737
+#: includes/config/theme_options/header_settings.php:1165
+msgid "Change the signin, signup icons and member image border color. (default: #ffffff)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:330
+msgid "Change the background color of the member controls. (default: #ffffff)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:334
+#: includes/config/theme_options/header_settings.php:455
+#: includes/config/theme_options/header_settings.php:879
+#: includes/config/theme_options/header_settings.php:1186
+msgid "Background Transparency"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:348
+#: includes/config/theme_options/header_settings.php:1200
+msgid "Change the transparency of the member controls. (default: 0.2)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:352
+#: includes/config/theme_options/header_settings.php:1204
+msgid "Settings String Color"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:363
+#: includes/config/theme_options/header_settings.php:1215
+msgid "Change the member controls text color. (default: #cad5e2)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:387
+msgid "Show or hide the top info  bar."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:398
+msgid "Change the email address of top info  bar."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:402
+#: includes/config/theme_options/header_settings.php:826
+#: includes/config/theme_options/header_settings.php:1254
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+#: includes/config/theme_options/header_settings.php:408
+msgid "Change the phone number of top info  bar."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:412
+#: includes/config/theme_options/header_settings.php:836
+msgid "Social Links"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:419
+#: includes/config/theme_options/header_settings.php:843
+#, php-format
+msgid ""
+"Show or hide the Social media icons. <br /><br /><i><strong>Note: </strong>You can manage them in %s."
+"</i>"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:435
+#: includes/config/theme_options/header_settings.php:859
+msgid "Change the top bar text color. (default: #ffffff)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:451
+msgid "Change the top bar background color. (default: #ffffff)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:466
+#: includes/config/theme_options/header_settings.php:893
+msgid "Change the top bar transparency. (default: 1)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:647
+#: includes/config/theme_options/header_settings.php:1075
+msgid "Change the top padding of the main menu items (default: 18px)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:678
+#: includes/config/theme_options/header_settings.php:1106
+msgid "Change the bottom padding of the main menu items (default: 18px)."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:705
+#: includes/config/theme_options/header_settings.php:1133
+#, php-format
+msgid ""
+"Show or hide the user controls from header section <br /><br /><i> <strong>Note: </strong> this "
+"option will work only if members status is active in %s</i>."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:811
+msgid "Show or hide the top info bar."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:822
+msgid "Change the email address from top info  bar."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:832
+msgid "Change the phone number from top info  bar."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:875
+msgid "Change the top bar background color. (default: #000000)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:1182
+msgid "Change the member controls background color. (default: #ffffff)"
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:1239
+msgid "Show or hide the contact details."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:1250
+msgid "Show or hide the email address."
+msgstr ""
+
+#: includes/config/theme_options/header_settings.php:1260
+msgid "Show or hide the phone number."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:15
+msgid "Default Layout Structure"
+msgstr "Affichage par défaut"
+
+#: includes/config/theme_options/layout_settings.php:16
+msgid "The default layout setting will be used for the pages where their custom settings are missing."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:20
+msgid "Wordpress Built-in Template Files Settings"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:21
+msgid ""
+"In extracoding uploader theme you can even customize the default layout settings of wordpress built-"
+"in template files. <p><i><strong>Note: </strong>The following settings are default settings of these "
+"pages, you can also change each category, tag and post layout settings while editing them.</i></p>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:25
+msgid "Custom Pages Template Settings"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:26
+msgid ""
+"The custom pages template settings are almost same as the above \"Wordpress Built-in Template Files "
+"Settings\" except these are custom created pages with some additional options e.g. Yoursite.com/users."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:30
+msgid "Pagination Settings"
+msgstr "Paramètre de paginations"
+
+#: includes/config/theme_options/layout_settings.php:31
+msgid "This section is related to blog and comments pagination settings."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:42
+#: includes/config/theme_options/layout_settings.php:193
+msgid "Default Header"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:43
+#: includes/config/theme_options/layout_settings.php:194
+msgid "Header with logo in center"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:44
+#: includes/config/theme_options/layout_settings.php:195
+msgid "Classic Header"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:48
+msgid "Select a header for default layout structure."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:78
+msgid "Select a slider for default layout structure."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:147
+#, php-format
+msgid ""
+"Select a layout structure for default layout. <br /><br /><i><strong>Note: </strong>You can manage "
+"sidebars easily in %s.</i>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:179
+msgid "Strip Content"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:183
+msgid "Automatically strip content from media posts."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:199
+msgid "Select a header for archive pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:229
+msgid "Select a slider for archive pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:298
+#, php-format
+msgid ""
+"Select a layout structure for archive pages. <br /><br /><i><strong>Note: </strong>You can manage "
+"sidebars easily in %s.</i>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:350
+msgid "Show or hide the filtration from archive pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:400
+#: includes/config/theme_options/layout_settings.php:620
+#: includes/config/theme_options/layout_settings.php:1168
+msgid "Force Settings"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:404
+msgid "Force the default settings over each category settings."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:419
+msgid "Select a header for categories pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:449
+msgid "Select a slider for categories pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:518
+#, php-format
+msgid ""
+"Select a layout structure for categories pages. <br /><br /><i><strong>Note: </strong>You can manage "
+"sidebars easily in %s.</i>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:570
+msgid "Show or hide the filtration from categories page."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:624
+msgid "Force the default settings over each tag settings."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:639
+msgid "Select a header for tags pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:669
+msgid "Select a slider for tags pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:738
+#, php-format
+msgid ""
+"Select a layout structure for tags pages. <br /><br /><i><strong>Note: </strong>You can manage "
+"sidebars easily in %s.</i>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:790
+msgid "Show or hide the filtration from tags pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:850
+msgid "Select a header for search result pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:906
+#, php-format
+msgid ""
+"Select a layout structure for search result pages. <br /><br /><i><strong>Note: </strong>You can "
+"manage sidebars easily in %s.</i>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:958
+msgid "Show or hide the filtration from search result pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:988
+msgid "Select the number of columns for grid view"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1020
+msgid "Select a header for browse categories page."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1050
+msgid "Select a slider for browse categories page."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1119
+#, php-format
+msgid ""
+"Select a layout structure for browse categories page.  <br /><br /><i><strong>Note: </strong>You can "
+"manage sidebars easily in %s.</i>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1151
+#: includes/config/theme_options/layout_settings.php:1585
+msgid "Columns"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1163
+#: includes/config/theme_options/layout_settings.php:1597
+msgid "Select the number of columns."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1172
+msgid "Force default settings over each radio genre settings."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1187
+msgid "Select a header for radio genre pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1217
+msgid "Select a slider for radio genre pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1286
+#, php-format
+msgid ""
+"Select a layout structure for radio genre pages. <br /><br /><i><strong>Note: </strong>You can manage "
+"sidebars easily in %s.</i>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1330
+msgid "Select a header for contact page."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1386
+#, php-format
+msgid ""
+"Select a layout structure for contact page. <br /><br /><i><strong>Note: </strong>You can manage "
+"sidebars easily in %s.</i>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1430
+msgid "Select a header for users page."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1460
+msgid "Select a slider for users page."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1529
+#, php-format
+msgid ""
+"Select a layout structure for users page. <br /><br /><i><strong>Note: </strong>You can manage "
+"sidebars easily in %s.</i>"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1561 includes/config/widgets/users.php:37
+msgid "User Roles"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1571
+msgid "Show users with selected wordpress roles."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1581
+msgid "Show or hide the filtration from users page."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1601
+msgid "AJAX Pagination "
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1608
+msgid "Load next pages with ajax works for category, archives, search, tags pages."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1612
+msgid "AJAX Blog Pagination "
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1619
+msgid "Replace the default blog next and previous pagination with advanced ajax based load more button."
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1623
+msgid "AJAX Comments Pagination"
+msgstr ""
+
+#: includes/config/theme_options/layout_settings.php:1630
+msgid ""
+"Replace the default comments next and previous pagination with advanced ajax based load more button."
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:4
+msgid "Mail Settings"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:18
+msgid "General Information"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:19
+msgid ""
+"Another advanced option by extracoding themes to give you ability to change the wordpress built-in "
+"email settings."
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:23
+msgid "Emails Settings"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:24
+msgid "This section gives you ability to overwrite the default wordpress emails templates"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:28
+msgid "User Emails Settings"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:29
+msgid "This section give you ability to change the theme custom emails templates."
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:34
+msgid "Admin Email Address"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:42
+msgid "The default admin email address to receive emails."
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:47
+msgid "System Sender Name"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:55
+msgid "The default system sender name used while sending mails from system e.g registration email."
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:59
+msgid "System Sender Email Address"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:60
+#: includes/config/theme_options/mail_settings.php:112
+#: includes/config/theme_options/mail_settings.php:123
+#: includes/config/theme_options/mail_settings.php:145 includes/config/uploader/frontend_post.php:102
+msgid "text"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:67
+msgid ""
+"The default email address used to send system emails <br /><br /> <i><strong>Important Note: </"
+"strong>To avoid your email being marked as spam, it is highly recommended that your \"System Sender "
+"Email Address\" domain must match with your website URL.</i>"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:83
+msgid "Enable SMTP"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:91
+msgid "Enable or disable SMTP."
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:95
+msgid "SMTP Authetication"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:96
+msgid "switch"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:105
+#, php-format
+msgid ""
+"SMTP Authentication, often abbreviated SMTP AUTH, is an extension of the Simple Mail Transfer "
+"Protocol whereby an SMTP client may log in using an authentication mechanism chosen among those "
+"supported by the SMTP server. The authentication extension is mandatory for submission servers. %s"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:111
+msgid "Host"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:133
+#: includes/config/theme_options/mail_settings.php:134
+msgid "password"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:144
+msgid "port"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:155
+msgid "Debugging Level"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:156
+#: includes/config/theme_options/mail_settings.php:169
+msgid "select"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:168
+msgid "Encryption"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:175
+msgid "None"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:176
+msgid "SSL"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:177
+msgid "TLS"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:193
+msgid "Send notification on each like"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:198
+#: includes/config/theme_options/mail_settings.php:233
+#: includes/config/theme_options/mail_settings.php:346
+#: includes/config/theme_options/mail_settings.php:402
+#: includes/config/theme_options/mail_settings.php:458
+msgid "Email Subject"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:207
+#: includes/config/theme_options/mail_settings.php:226
+#: includes/config/theme_options/mail_settings.php:241
+#: includes/config/theme_options/mail_settings.php:256
+#: includes/config/theme_options/mail_settings.php:354
+#: includes/config/theme_options/mail_settings.php:370
+#: includes/config/theme_options/mail_settings.php:410
+#: includes/config/theme_options/mail_settings.php:426
+#: includes/config/theme_options/mail_settings.php:466
+#: includes/config/theme_options/mail_settings.php:482
+#, php-format
+msgid "Available Parameters: %s"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:212
+#: includes/config/theme_options/mail_settings.php:246
+#: includes/config/theme_options/mail_settings.php:360
+#: includes/config/theme_options/mail_settings.php:416
+#: includes/config/theme_options/mail_settings.php:472
+msgid "Email Body"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:328
+#: includes/config/theme_options/mail_settings.php:342
+msgid "Send notification on each like."
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:333
+#: includes/config/theme_options/mail_settings.php:389
+#: includes/config/theme_options/mail_settings.php:445
+msgid "Content Type"
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:384
+#: includes/config/theme_options/mail_settings.php:398
+msgid "Send notification on following."
+msgstr ""
+
+#: includes/config/theme_options/mail_settings.php:440
+#: includes/config/theme_options/mail_settings.php:454
+msgid "Send notification on user subscription."
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:6
+msgid "Manage Sidebars"
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:16
+msgid "Sidebars Manager"
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:18
+#, php-format
+msgid ""
+"Extracoding Uploader Theme has the advanced functionality to add as many sidebars as required and "
+"they will be immediately visible in the sections where they are required e.g. widget area, layout "
+"settings and so on. You can further read on Wordpress codex that how programmatically the "
+"register_sidebar function works %s. <p><i><strong>Note: </strong>Some of the sidebars e.g. \"Home "
+"Page Right Sidebar\" are built-in and you cannot change their settings here.</i></p>"
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:25
+msgid "Title / Name"
+msgstr "Titre / Nom"
+
+#: includes/config/theme_options/manage_sidebars.php:33
+msgid "Enter the title of this sidebar."
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:37
+msgid "Slug / id"
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:44
+msgid ""
+"Enter the unqiue id of this sidebar, it must be all in lowercase, and use dashes instead of spaces."
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:55
+msgid "Enter the text description about this sidebar, it will be visible in widgets section."
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:59
+msgid "Before Title"
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:67
+msgid "HTML to place before every widget of this sidebar."
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:71
+msgid "After Title"
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:79
+msgid "HTML to place after every widget of this sidebar."
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:83
+msgid "Before Widget"
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:91
+msgid "HTML to place before every title of widgets visible into this sidebar."
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:95
+msgid "After Widget"
+msgstr ""
+
+#: includes/config/theme_options/manage_sidebars.php:103
+msgid "HTML to place after every title of widgets visible into this sidebar."
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:6
+msgid "Members Settings"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:15
+msgid "Members General Settings"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:17
+#, php-format
+msgid ""
+"This section is related to members of the site, here you can enable or disable the new user "
+"registration, force them to login from front-end and so on. <p><i><strong>Note: </strong>Extracoding "
+"Uploader Theme has the ability to customize email templates of new user registration and forgot "
+"password. You can find these settings in %s.</i></p>"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:23
+msgid "Members Pages Background Settings"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:24
+msgid ""
+"This section is related to the member login, signup and forgot password pages background, here you "
+"can select or upload multiple videos and images for background. <p><i><strong>Note: </strong></i> it "
+"will automatically create a playlist for all the videos and they will be played one by one but in "
+"case of images it will be paused.</p>"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:36
+msgid "Enable or disable front-end login and signup."
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:40
+msgid "Force Front-end Login"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:48
+msgid ""
+"Force all the users to login from front-end only. <br /><br /><i><strong>Note: </strong> this option "
+"basically restrict access to /wp-admin so all the users including admin is forced to login from front-"
+"end only but allowed members group / role can access backend after login, for further restiction "
+"please use the following \"WP Admin Bar\" option. <br /><br /> <strong>Very Important: </strong> Do "
+"not activate this option if the membership status and member controls options in header settings are "
+"off, otherwise after logout you will not be able to access backend anymore.</i>"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:52
+msgid "WP Admin Bar"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:63
+msgid ""
+"Restrict the access of logged in members to wordpress admin panel. <br /><br /> <i><strong>Note: </"
+"strong> this option will only work if the above option \"force front-end login\" is active and all "
+"the users with administrator role can access /wp-admin directly even if it's not selected in this "
+"list. furthermore please note that we are not using wordpress built-in functionality to hide admin "
+"bar as that option belongs to each user profile settings and we have option to show or hide it "
+"anytime.</i>"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:67
+msgid "Register As"
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:76
+#, php-format
+msgid ""
+"Register users with the selected role. <br /><br /> <i><strong>Note: </strong> roles are very "
+"important in wordpress so change it only if you know exactly what are you doing, you can further read "
+"about them on wordpress codex %s </i>."
+msgstr ""
+
+#: includes/config/theme_options/member_settings.php:81
+msgid "Select or Upload Backgrounds"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:6
+msgid "Top Notifications"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:14
+msgid "Notifications General Settings"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:15
+msgid "Top notifications are the one which are visible at the very top of the page."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:19
+msgid "Manage Notifications"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:20
+msgid ""
+"In this section you can add as many notifications as required<p><i><strong>Note: </strong><ol><li>The "
+"sticky notification option will overwrite the display order and that notification will have priority "
+"over others.</li><li>You can easily sort, remove or add more rows by using the controls given at the "
+"right side of each row.</li></ul></i></p>"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:24
+msgid "Notifications Style Settings"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:25
+msgid ""
+"The following settings are related to top notifications style settings, if you leave any field blank "
+"then it will be replaced with the default stylesheet value."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:38
+msgid "Show or hide the top notifications."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:43
+msgid "Random"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:50
+msgid ""
+"Show notifications randomly on each page refresh. <br /><br /> <i><strong>note: </strong>this option "
+"will stop working in case of any sticky notification.</i>"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:54
+msgid "Close Button"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:61
+msgid "Show or hide the close [x] button from notification bar."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:66
+msgid "[Notification]"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:78
+msgid "Enter the title for backend identification."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:90
+msgid "Sticky notification will always have priority on other notifications."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:94
+msgid "Visible To"
+msgstr "Visible par"
+
+#: includes/config/theme_options/notifications.php:101
+msgid "All"
+msgstr "Tous"
+
+#: includes/config/theme_options/notifications.php:102
+msgid "Registered Members Only"
+msgstr "Membres enregistrés seulement"
+
+#: includes/config/theme_options/notifications.php:103
+msgid "Unregistered Members Only"
+msgstr "Membres non-enregistrés"
+
+#: includes/config/theme_options/notifications.php:106
+msgid "Limit the visiblity for registered or unregistered users."
+msgstr "Limiter la visibilités pour les utilisateurs enregistré/non-enregistrés"
+
+#: includes/config/theme_options/notifications.php:110
+msgid "Content"
+msgstr "Contenu"
+
+#: includes/config/theme_options/notifications.php:117
+msgid "Write your notification text, the HTML tags are allowed."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:132
+msgid "Change the top notification background color (default: #d70404)."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:143
+msgid "Change the top notification text color (default: #ffffff)."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:147
+msgid "Button Background"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:154
+msgid "Change the top notification .top-bar .btn (button class) background color (default: #ffffff)."
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:159
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/config/theme_options/notifications.php:166
+msgid "Change the top notification .top-bar .btn text color (default: #d70404)."
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:4
+msgid "Social Media Settings"
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:15
+msgid "Social Media"
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:16
+msgid "This section is related to social media and their profile links."
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:30
+msgid "Enter your Facebook profile URL."
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:43
+msgid "Enter your Twitter profile URL."
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:48
+msgid "Google plus"
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:56
+msgid "Enter your Google plus profile URL."
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:61 users-profile.php:201
+msgid "Instagram"
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:69
+msgid "Enter your Instagram profile URL."
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:82
+msgid "Enter your Youtube profile URL."
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:95
+msgid "Enter your Vimeo profile URL."
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:100 users-profile.php:228
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:108
+msgid "Enter your Soundcloud profile URL."
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:113 users-profile.php:237
+msgid "Flickr"
+msgstr ""
+
+#: includes/config/theme_options/social_media_settings.php:121
+msgid "Enter your Flickr profile URL."
+msgstr ""
+
+#: includes/config/theme_options/theme_settings.php:4
+msgid "Theme Settings"
+msgstr "Paramètres du thème"
+
+#: includes/config/theme_options/theme_settings.php:11
+msgid "Register Image Sizes"
+msgstr ""
+
+#: includes/config/theme_options/theme_settings.php:12
+#, php-format
+msgid ""
+"Registers a new image size. This means WordPress will create a copy of the image with the specified "
+"dimensions when a new image is uploaded. %s"
+msgstr ""
+
+#: includes/config/theme_options/theme_settings.php:19
+msgid "Sizes"
+msgstr ""
+
+#: includes/config/theme_options/theme_settings.php:20
+msgid "image"
+msgstr ""
+
+#: includes/config/theme_options/theme_settings.php:26
+msgid "You can change logo either by URL or upload."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:6
+msgid "Typography"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:14
+msgid "custom font"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:15
+msgid "custom fonts"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:19
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:20
+msgid ""
+"In this section you can add as many notifications as required, the sticky notification option will "
+"overwrite the display order and that notication will always have priority over others "
+"<p><i><strong>note: </strong>You can easily sort, remove or add more rows by using controls given at "
+"the right side or each row.</i></p>"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:24
+msgid "Font Sizes"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:25
+msgid ""
+"The following settings are related to top notifications style settings, if you leave any of them "
+"blank then it will be replaced with default stylesheet value."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:80
+msgid "Body Font Family"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:87
+msgid "Select a font family for body text."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:91
+msgid "Menu Font Family"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:98
+msgid "Select a font family for menu text."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:101
+msgid "Headings Font Family"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:108
+msgid "Select a font family for Headings(H1, H2... H6)."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:114
+msgid "Body Font Size"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:121
+msgid "Select font size for body in px. (default: 13px)."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:125
+msgid "Top Notification Font Size"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:134
+msgid "Select font size for top notification bar in px.Default is 14px."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:138
+msgid "Page Title Font Size"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:147
+msgid "Select font size for page title.Default is 51px."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:150
+#: includes/config/theme_options/typography_settings.php:162
+msgid "Main Menu Font Size"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:159
+#: includes/config/theme_options/typography_settings.php:171
+msgid "Select font size for main menu.Default is 17px."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:174
+msgid "Breadcrumb Font Size"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:183
+msgid "Select font size for breadcrumb. Default is 17px."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:186
+msgid "Thumbanil caption Title Font Size"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:195
+msgid "Select font size for thumbnail caption title. Default is 16px."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:198
+msgid "Widget Title Font Size"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:207
+msgid "Select font size for Widget title. Default is 16px."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:210
+msgid "copyright Text Font Size"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:219
+msgid "Select font size for copyright text. Default is 12px."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:222
+msgid "Footer Menu Font Size"
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:231
+#: includes/config/theme_options/typography_settings.php:244
+msgid "Select font size for footer menu. Default is 12px."
+msgstr ""
+
+#: includes/config/theme_options/typography_settings.php:235
+msgid "Heading(H1) Font Size"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:4
+msgid "Uploader Settings"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:12
+msgid "Uploader General Settings"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:13
+msgid ""
+"Extracoding Uploader Theme has the builtin functionality to upload media files directly from "
+"frontend, in this section you can adjust global settings of uploader e.g. status, number of uploads "
+"limit, attachment limits and so on. <p><i><strong>Note: </strong> The theme has the ability to "
+"automatically identify the file types of audio, video and images files and it can publish them in "
+"particular section so do not get confused as there are no related settings available.</i></p>"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:17
+msgid "Default Strings (text) Settings"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:18
+msgid ""
+"In this section you can change the global strings (text) of uploader. <p><i><strong>Note: </"
+"strong>You can also change them directly in shortcode setttings please read the documentation for "
+"further information.</i></p>"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:30
+msgid ""
+"Enable or disable front-end uploading functionality.<br /><br /> <i><strong>Note: </strong>Turning "
+"off this option will also hide uploader from header section.</i>"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:35
+msgid "Uploads Limit"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:43
+msgid "Limit the number of maximum uploads for frontend users."
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:48
+msgid "Attachments Limit"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:56
+msgid "Limit the number of maximum attachments for each upload."
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:61
+msgid "Featured Image"
+msgstr "Vignette"
+
+#: includes/config/theme_options/uploader_settings.php:68
+msgid ""
+"Restrict users to must upload feature image with each post. <br /> <br /> <i><strong>Note: </"
+"strong>Feature image will also counted as attachment, so in case you allowed users to upload 5 "
+"attachments and feature image option is also active then they will be able to upload 1 feature image "
+"and 4 attachments.</i>"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:73
+msgid "Allowed Files"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:81
+msgid "Audios"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:81
+msgid "Videos"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:81
+msgid "Images"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:84
+msgid ""
+"Restrict the users to upload selected file types only. <br /> <br /> <i><strong>Note: </strong> User "
+"will be able to upload only wordpress supported files for example in above option image type means "
+"all wordpress supported images mime types e.g image/jpg, image/png, image/gif and so on.</i>"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:88
+msgid "Default Status"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:91
+msgid "Draft"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:92
+msgid "Pending"
+msgstr "En attente"
+
+#: includes/config/theme_options/uploader_settings.php:93
+msgid "Publish"
+msgstr "Publier"
+
+#: includes/config/theme_options/uploader_settings.php:102
+msgid ""
+"Select the default wordpress post status of uploads, we strongly recommend that it must be pending so "
+"you can review them before it goes live."
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:106
+msgid "Rename Files"
+msgstr "Renommer fichiers"
+
+#: includes/config/theme_options/uploader_settings.php:113
+msgid "System will automatically overwrite the user uploaded files name."
+msgstr "Les fichiers uploadés par les utilisateurs seront automatiquement renommés"
+
+#: includes/config/theme_options/uploader_settings.php:117
+msgid "Prevent Duplicates"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:124
+msgid ""
+"Prevent the duplicate files upload for current que. <br /><br /> <i><strong>Note: </strong>This "
+"option will work only for current uploads and it will also restrict users from uploading the "
+"duplicate files for attachments.</i>"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:128
+msgid "Maximum Size Limit"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:136
+#, php-format
+msgid ""
+"Restrict the maximum file size limit in kilobytes. <br /> <br /> <i><strong>Note: </strong> it should "
+"not exceed your current wordpress or PHP maximum upload size limit which is %s KB.</i> "
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:140
+msgid "Heading"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:147
+msgid "Share Your Media"
+msgstr "Partagez vos médias "
+
+#: includes/config/theme_options/uploader_settings.php:148
+msgid "Change the main &lth2&gt heading of uploader."
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:152
+msgid "Uploader Intro"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:159
+msgid "Uploader is powerful theme to share your media files"
+msgstr "Uploader est un thème puissant dédié au partage de médias"
+
+#: includes/config/theme_options/uploader_settings.php:160
+msgid "Change the uploader introduction text."
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:164
+msgid "Button Text"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:171
+msgid "Upload Media"
+msgstr "Upload média "
+
+#: includes/config/theme_options/uploader_settings.php:172
+msgid "Change the upload button text."
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:176
+msgid "Drop files"
+msgstr "Déposer des fichiers"
+
+#: includes/config/theme_options/uploader_settings.php:183
+msgid "Just Drop your files here"
+msgstr "Déposez vos fichiers ici"
+
+#: includes/config/theme_options/uploader_settings.php:184
+msgid "Change the uploader drop files text."
+msgstr "Changer le texte de l'uploader"
+
+#: includes/config/theme_options/uploader_settings.php:189
+#: includes/config/theme_options/uploader_settings.php:196
+#: includes/config/theme_options/uploader_settings.php:208 modules/templates/uploader.php:5
+msgid "Edit Media"
+msgstr "Merci de remplir ce formulaire"
+
+#: includes/config/theme_options/uploader_settings.php:197
+msgid "Change the title of Edit Media popup."
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:201
+msgid "Edit Media Desc"
+msgstr ""
+
+#: includes/config/theme_options/uploader_settings.php:209
+msgid "Change the Edit Media popup description."
+msgstr ""
+
+#: includes/config/uploader/frontend_post.php:18 includes/config/uploader/frontend_post.php:110
+msgid "Enter the title of your media file."
+msgstr "Entrez le titre de votre fichier."
+
+#: includes/config/uploader/frontend_post.php:30 includes/config/uploader/frontend_post.php:48
+#: includes/config/uploader/frontend_post.php:65
+msgid "Enter the description of your media file."
+msgstr "Entrez une description"
+
+#: includes/config/uploader/frontend_post.php:34
+msgid "Category"
+msgstr "Catégorie"
+
+#: includes/config/uploader/frontend_post.php:69
+msgid "Privacy"
+msgstr "Confidentialité"
+
+#: includes/config/uploader/frontend_post.php:78
+msgid "Public"
+msgstr "Publique"
+
+#: includes/config/uploader/frontend_post.php:83
+msgid "Private"
+msgstr "Privée"
+
+#: includes/config/uploader/frontend_post.php:88
+msgid "Protected"
+msgstr "Protégée"
+
+# Statut des commentaires
+#: includes/config/uploader/frontend_post.php:114
+msgid "Comments Status"
+msgstr "Statut des commentaires"
+
+#: includes/config/uploader/frontend_post.php:124
+msgctxt "extracoding uploader frontend post comment status"
+msgid "Open"
+msgstr "Autorisées"
+
+#: includes/config/uploader/frontend_post.php:129
+msgctxt "extracoding uploader frontend post comment status"
+msgid "Closed"
+msgstr "Non autorisées"
+
+#: includes/config/uploader/frontend_post.php:148
+msgid "Standard License"
+msgstr "Licence standard"
+
+#: includes/config/uploader/frontend_post.php:152
+msgid "Creative Common License"
+msgstr "Licence Creative commons"
+
+#: includes/config/widgets/advanced_posts.php:16
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:19 includes/config/widgets/radio.php:19
+msgid "Enter a title for this widget."
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:23
+msgid "Template"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:28
+msgid "Style 1"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:29
+msgid "Style 2"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:33
+msgid "Select a template for the widget posts."
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:38
+msgid "Categories"
+msgstr "Catégories"
+
+#: includes/config/widgets/advanced_posts.php:44
+msgid "Show posts from selected categories only."
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:48
+msgid "Posts Limit"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:56
+msgid "Limit the number of posts to show."
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:60 includes/config/widgets/users.php:119
+msgid "Order By"
+msgstr "Ranger par"
+
+#: includes/config/widgets/advanced_posts.php:67
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "ID"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:68
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Author"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:69
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Title"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:70
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Name"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:71
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Post Type"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:72
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Date"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:73
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Last Modified Date"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:74
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Parent"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:75
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Random"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:76
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Comment Count"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:82
+msgid "Change the posts order."
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:86 includes/config/widgets/users.php:143
+msgid "Order"
+msgstr "Ordre"
+
+#: includes/config/widgets/advanced_posts.php:93
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Ascending"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:94
+msgctxt "Extracoding Advanced Posts Widget"
+msgid "Descending"
+msgstr ""
+
+#: includes/config/widgets/advanced_posts.php:100
+msgid "Show posts in ascending or descending order."
+msgstr ""
+
+#: includes/config/widgets/contact.php:16 includes/config/widgets/contact.php:20
+msgctxt "extracoding uploader contact us name field"
+msgid "Name"
+msgstr "Nom"
+
+#: includes/config/widgets/contact.php:25
+msgid "*Required."
+msgstr "*Requis"
+
+#: includes/config/widgets/contact.php:29 includes/config/widgets/contact.php:33
+msgctxt "extracoding uploader contact us email field"
+msgid "Email Address"
+msgstr "Adresse mail"
+
+#: includes/config/widgets/contact.php:38
+msgid "*Required (We will never publish it publicaly)."
+msgstr "*Requis (nous ne la publierons jamais publiquement)"
+
+#: includes/config/widgets/contact.php:43 includes/config/widgets/contact.php:47
+msgctxt "extracoding uploader contact us email field"
+msgid "Subject"
+msgstr "Sujet"
+
+#: includes/config/widgets/contact.php:55
+msgctxt "extracoding uploader contact us email field"
+msgid "Message"
+msgstr "Message"
+
+#: includes/config/widgets/radio.php:16
+msgctxt "extracoding radio widget"
+msgid "Radio"
+msgstr ""
+
+#: includes/config/widgets/radio.php:23
+msgid "Number of Stations"
+msgstr ""
+
+#: includes/config/widgets/radio.php:31
+msgid "Limit the number of radio channel."
+msgstr ""
+
+#: includes/config/widgets/staff_picked.php:16
+msgctxt "extracoding staff picked widget"
+msgid "Staff Picked"
+msgstr ""
+
+#: includes/config/widgets/staff_picked.php:23
+msgid "Post IDs"
+msgstr ""
+
+#: includes/config/widgets/staff_picked.php:30
+msgid "Enter the comma seperated post IDs e.g 45, 98, 72."
+msgstr ""
+
+#: includes/config/widgets/twitter.php:19
+msgid "Enter the title of the widget."
+msgstr ""
+
+#: includes/config/widgets/users.php:16
+msgctxt "extracoding users widget"
+msgid "Top Users"
+msgstr ""
+
+#: includes/config/widgets/users.php:19
+msgid "Enter the title of widget."
+msgstr ""
+
+#: includes/config/widgets/users.php:23
+msgid "Hide Empty"
+msgstr ""
+
+#: includes/config/widgets/users.php:33
+msgid "Skip the users with no posts."
+msgstr ""
+
+#: includes/config/widgets/users.php:43
+msgid "All Users"
+msgstr ""
+
+#: includes/config/widgets/users.php:47
+msgid "Show users of selected roles."
+msgstr ""
+
+#: includes/config/widgets/users.php:51
+msgid "Number of Users"
+msgstr ""
+
+#: includes/config/widgets/users.php:59
+msgid "Enter the number of users you want to display by default."
+msgstr ""
+
+#: includes/config/widgets/users.php:63
+msgid "Exclude users"
+msgstr ""
+
+#: includes/config/widgets/users.php:71
+msgid "Enter the comma separated user id's e.g 2, 3."
+msgstr ""
+
+#: includes/config/widgets/users.php:85
+msgid "Load more button at the end of widget."
+msgstr ""
+
+#: includes/config/widgets/users.php:107
+msgid "Minimum Posts"
+msgstr ""
+
+#: includes/config/widgets/users.php:115
+msgid "The minimum posts a user must have."
+msgstr ""
+
+#: includes/config/widgets/users.php:126
+msgctxt "extracoding users widget"
+msgid "ID"
+msgstr ""
+
+#: includes/config/widgets/users.php:127
+msgctxt "extracoding users widget"
+msgid "Login"
+msgstr ""
+
+#: includes/config/widgets/users.php:128
+msgctxt "extracoding users widget"
+msgid "Nice name"
+msgstr ""
+
+#: includes/config/widgets/users.php:129
+msgctxt "extracodng users widget"
+msgid "Email"
+msgstr ""
+
+#: includes/config/widgets/users.php:130
+msgctxt "extracoding users widget"
+msgid "URL"
+msgstr ""
+
+#: includes/config/widgets/users.php:131
+msgctxt "extracoding users widget"
+msgid "Registered"
+msgstr ""
+
+#: includes/config/widgets/users.php:132
+msgctxt "extracoding users widget"
+msgid "Display Name"
+msgstr ""
+
+#: includes/config/widgets/users.php:133
+msgctxt "extracoding users widget"
+msgid "Post Count"
+msgstr ""
+
+#: includes/config/widgets/users.php:150
+msgctxt "extracoding users widget"
+msgid "Ascending"
+msgstr ""
+
+#: includes/config/widgets/users.php:151
+msgctxt "extracoding users widget"
+msgid "Descending"
+msgstr ""
+
+#: includes/config/widgets/users.php:157
+msgid "Ascending or Descending."
+msgstr ""
+
+#: includes/core/author_class.php:53
+msgid "We are sorry but we cannot process your request, please refresh page and try again."
+msgstr ""
+"Désolé, nous ne parvenons pas à faire aboutir la requête, merci de rafraîchir et d'essayer à nouveau. "
+
+#: includes/core/author_class.php:85
+msgid "Your email address is already verified, please refresh page to start following users."
+msgstr ""
+"Votre adresse mail a déjà été vérifiée, merci de rafraîchir la page pour commencer à suivre des "
+"utilisateurs."
+
+#: includes/core/author_class.php:120
+msgid "Another verification email has been sent to you, please check your inbox."
+msgstr ""
+"Un autre email de vérification vous a été envoyé, merci de consulter votre boîte de réception (Vous "
+"ne trouvez pas ? Pensez à vérifier dans vos \"spams\")."
+
+#: includes/core/author_class.php:131
+msgid ""
+"We are sorry but right now the system is not able to process your request, please try again later or "
+"contact us if the problem presists."
+msgstr ""
+"Désolé, le système semble ne pas fonctionner pour l'instant, merci de réessayer plus tard ou de nous "
+"contacter si le problème persiste."
+
+#: includes/core/author_class.php:137
+msgid "We are sorry but your subscription code is invalid or expired."
+msgstr "Désolé, le code semble invalide ou expiré."
+
+#: includes/core/author_class.php:146
+msgid "You are already registered and can follow users."
+msgstr "Vous êtes déjà enregistré, vous pouvez suivre des utilisateurs."
+
+#: includes/core/author_class.php:172
+msgid "Thank you for your subscription, you may now follow users."
+msgstr "Merci de vous être inscrit(e) ! Vous pouvez désormais suivre d'autres membres."
+
+#: includes/core/author_class.php:193 includes/core/members_class.php:371
+msgid "Hacking Attempt!!"
+msgstr ""
+
+#: includes/core/author_class.php:212
+msgctxt "author subscription form"
+msgid "Name"
+msgstr "Nom"
+
+#: includes/core/author_class.php:213
+msgctxt "author subcription form"
+msgid "Email"
+msgstr "Adresse mail"
+
+#: includes/core/author_class.php:269 includes/core/author_class.php:621
+msgid "We are sorry, system is not able to process your request now, please try again."
+msgstr ""
+"Désolé, le système ne semble pas être en mesure de répondre à cette requête, merci d'essayer plus "
+"tard."
+
+#: includes/core/author_class.php:273
+msgid ""
+"Congratulation! You're just one step away to start following users, please check your email address "
+"for verification email."
+msgstr ""
+"Félicitations ! Plus qu'un seule étape avant de pouvoir suivre d'autres membres. Merci de consulter "
+"vos mails pour terminer la vérification."
+
+#: includes/core/author_class.php:285
+msgid ""
+"We are sorry but system is not able to process your request right now, please try again later or "
+"contact us."
+msgstr ""
+"Désolé, le système semble ne pas fonctionner pour l'instant, merci de réessayer plus tard ou de nous "
+"contacter si le problème persiste."
+
+#: includes/core/author_class.php:308
+#, php-format
+msgid ""
+"You must verify your email address before following any other user, if in case you've not received "
+"any email from us then please check your spam folder or %s."
+msgstr ""
+"Vous devez d'abord valider votre adresse mail avant de commencer à suivre d'autres membres. Merci de "
+"consulter votre boîte mail (Vous n'avez rien reçu ? Pensez à vérifier vos \"spams\" ou %s.)"
+
+#: includes/core/author_class.php:309
+msgctxt "extracoding user following"
+msgid "Click here to resend"
+msgstr "Cliquer ici pour renvoyer"
+
+#: includes/core/author_class.php:328 includes/core/author_class.php:403
+#, php-format
+msgid "Congratulation! You are now successfully following %s."
+msgstr "Félicitation ! Vous suivez désormais %s !"
+
+#: includes/core/author_class.php:353 includes/core/author_class.php:448
+#, php-format
+msgid "Congratulation! you're now following %s again."
+msgstr "Félicitations ! Vous suivez de nouveau %s !"
+
+#: includes/core/author_class.php:357 includes/core/author_class.php:452
+#, php-format
+msgid "You're no more following %s and will not recieve any notification related to them."
+msgstr "Vous ne suivez plus désormais %s et ne recevrez plus de notifications y afférentes."
+
+#: includes/core/author_class.php:377
+msgid "We are sorry but you cannot follow yourself."
+msgstr "Hum... Désolé, mais vous ne pouvez pas vous suivre vous-même."
+
+#: includes/core/author_class.php:550
+msgid "You must login to like this post."
+msgstr "Vous devez être connecté pour liker !"
+
+#: includes/core/author_class.php:593
+msgid "Congratulation! you liked it again."
+msgstr "Bravo ! Vous aimez de nouveau !"
+
+#: includes/core/author_class.php:598
+msgid "you have successfully withdrawled your like."
+msgstr "Vous avez retiré votre like."
+
+#: includes/core/author_class.php:648
+msgid "Thank you for liking this post."
+msgstr "Merci pour ce like !"
+
+#: includes/core/author_class.php:790
+msgid "Resending Activation Email"
+msgstr "Envoi d'un nouveau mail d'activation"
+
+#: includes/core/breadcrumbs_class.php:231
+msgid "Home"
+msgstr "Page Principale"
+
+#: includes/core/members_class.php:178 includes/core/uploader_class.php:130
+#, php-format
+msgid "You must upload only supported %s files."
+msgstr "Vous ne pouvez uploader que les extensions supportées %s"
+
+#: includes/core/members_class.php:188 includes/core/uploader_class.php:143
+#: includes/thirdparty/exc-framework/core/fields/file_upload_field.php:92
+#, php-format
+msgid "Unable to upload \"%s\", Possible file upload attack."
+msgstr "Impossible de télécharger le fichier \"%s\"."
+
+#: includes/core/members_class.php:207
+msgid "There was an error while image upload."
+msgstr "Il y a eu une erreur pendant le téléchargement de l'image."
+
+#: includes/core/members_class.php:229 includes/core/members_class.php:318
+msgid "System is unable to update your profile, please make sure you entered the information correctly."
+msgstr "Impossible de mettre à jour votre profil, merci de vérifier les informations renseignées."
+
+#: includes/core/members_class.php:246
+msgid "Edit profile configuration file is missing."
+msgstr ""
+
+#: includes/core/members_class.php:365 modules/templates/members.php:54
+msgid "Confirm Password"
+msgstr "Confirmation du mot de passe"
+
+#: includes/core/members_class.php:376
+msgid ""
+"Congratulation! Your password has been successfully updated, You may login with your updated password."
+msgstr ""
+"Félicitation ! Votre mot de passe a bien été changé ; vous devez maintenant vous connecter avec ce "
+"dernier."
+
+#: includes/core/members_class.php:387
+msgid "We are sorry but your activation key is invalid or expired."
+msgstr "Désolé, mais cette clef d'activation est invalide ou expirée."
+
+#: includes/core/members_class.php:397
+msgid "You are already logged in, please update your password through profile settings."
+msgstr ""
+"Vous êtes déjà connecté, merci de changer votre mot de passe dans les paramètres de votre compte."
+
+#: includes/core/members_class.php:425 includes/core/members_class.php:513
+msgid "The email address is not belong to any account, please try again."
+msgstr "Cette adresse mail ne correspond à aucun compte, merci de réessayer. "
+
+#: includes/core/members_class.php:434
+msgid "You are not allowed to change password."
+msgstr "Vous ne pouvez pas changer le mot de passe."
+
+#: includes/core/members_class.php:480
+msgid "Instructions for resetting your password has been sent."
+msgstr "Un email contenant la marche à suivre pour changer votre mot de passe vous a été envoyé."
+
+#: includes/core/members_class.php:492 includes/core/members_class.php:518
+msgid "Please enter a valid email address."
+msgstr "Merci de renseigner une adresse mail valide."
+
+#: includes/core/members_class.php:531
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: The password you entered for the email address <strong>%s</strong> is "
+"incorrect. %s</div>"
+msgstr "<strong>OUPS !</strong> Le mot de passe est <strong>%s</strong> incorrect. %s</div>"
+
+#: includes/core/members_class.php:533
+msgid "Lost your password"
+msgstr "Mot de passe perdu"
+
+#: includes/core/members_class.php:582
+msgid "Hacking Attempt"
+msgstr "Tentative de piratage"
+
+#: includes/core/members_class.php:639
+msgid "Invalid request possibly hacking attempt"
+msgstr ""
+
+#: includes/core/members_class.php:660
+msgid "The email address is already associated with an account."
+msgstr "Cette adresse mail est déjà associée à un compte."
+
+#: includes/core/members_class.php:667
+msgid "The username is already in use, please try again."
+msgstr "Identifiant déjà emprunté."
+
+#: includes/core/members_class.php:671
+msgid "The username is not valid, please try again."
+msgstr "Identifiant invalide, merci de réessayer. "
+
+#: includes/core/post_class.php:148
+msgid "You must login to follow users"
+msgstr "Vous devez être connecté pour suivre d'autres memnbes."
+
+#: includes/core/post_class.php:159
+#, php-format
+msgid "You're already following %s."
+msgstr "Vous suivez déjà %s."
+
+#: includes/core/post_class.php:175
+#, php-format
+msgid "You're now following %s."
+msgstr "Vous suivez maintenant %s."
+
+#: includes/core/post_class.php:179
+msgid "An unknown error has occured, please try again later."
+msgstr "Un problème est survenu, merci de réessayer dans quelques instants."
+
+#: includes/core/post_class.php:184
+msgid "You cannot follow this user, possible hacking attempt."
+msgstr ""
+
+#: includes/core/post_class.php:245
+msgid "Thank you for your vote."
+msgstr "Merci d'avoir voté !"
+
+#: includes/core/post_class.php:248
+msgid "Your vote has been cast."
+msgstr "Vote pris en compte !"
+
+#: includes/core/post_class.php:308
+msgid "unfollow"
+msgstr "Ne plus suivre"
+
+#: includes/core/post_class.php:309
+msgid "follow"
+msgstr "suivre"
+
+#: includes/core/uploader_class.php:87
+msgid "You must register before uploading files"
+msgstr "Vous devez être connecté pour uploader un fichier."
+
+#: includes/core/uploader_class.php:93
+msgid ""
+"Page Expired: Sorry, it seems that you may recently logged in or logged out and that's why the page "
+"was expired, please refresh it and try again."
+msgstr "Page expirée : merci de la rafraîchir et de réessayer."
+
+#: includes/core/uploader_class.php:106
+msgid "You do not have permission to add / edit this post."
+msgstr "Vous ne pouvez pas ajouter / éditer ce post."
+
+#: includes/core/uploader_class.php:165
+msgid "HuH! Sorry! You already reached maximum allowed files limit."
+msgstr "Désolé ! Vous avez atteint la limite maximum."
+
+#: includes/core/uploader_class.php:172
+msgid "We're unable to process your request, please try again."
+msgstr "Nous ne parvenons pas à répondre à cette requête, merci de réessayer."
+
+#: includes/core/uploader_class.php:179
+#, php-format
+msgid "%s posts are not supported"
+msgstr "%s posts ne sont pas supportés."
+
+#: includes/core/uploader_class.php:223
+msgid "There was an error while uploading the image."
+msgstr "Il y a eu une erreur pendant le transfert."
+
+#: includes/core/uploader_class.php:305 includes/core/uploader_class.php:429
+#: includes/core/uploader_class.php:502 includes/core/uploader_class.php:514
+msgid ""
+"Sorry, it seems that you may recently logged in or logged out and that's why the page was expired, "
+"please refresh it and try again."
+msgstr ""
+"Désolé, il semblerait que vous vous soyez récemment connecté ou déconnecté, c'est pourquoi cette page "
+"a expiré, merci de rafraîchir et de réessayer."
+
+#: includes/core/uploader_class.php:360
+msgctxt "media upload"
+msgid "Allowed Media Files"
+msgstr "Fichiers autorisés"
+
+#: includes/core/uploader_class.php:380
+msgid "Media Uploader"
+msgstr ""
+
+#: includes/core/uploader_class.php:381
+#, php-format
+msgid "%d file currently uploading."
+msgstr "%d fichier(s) sélectionné(s)"
+
+#: includes/core/uploader_class.php:382
+#, php-format
+msgid "%d files currently uploading."
+msgstr "%d en cours de transfert."
+
+#: includes/core/uploader_class.php:383
+msgid "Please upload atleast one featured image."
+msgstr "Merci d'y attacher au moins une image jointe."
+
+#: includes/core/uploader_class.php:384
+#, php-format
+msgid "You can upload maximum %d files."
+msgstr "Vous pouvez transférer un maximum de %d fichiers."
+
+#: includes/core/uploader_class.php:385
+#, php-format
+msgid "You can attach maximum %d files."
+msgstr "Vous pouvez joindre un maximum de %d fichiers."
+
+#: includes/core/uploader_class.php:386
+msgid "An unknown error has occured please try again."
+msgstr "Erreur d'origine inconnue, merci de réessayer."
+
+#: includes/core/uploader_class.php:387
+#, php-format
+msgid "The settings of file \"%s\" are missing."
+msgstr "Information(s) manquante(s) pour %s"
+
+#: includes/core/uploader_class.php:388
+#, php-format
+msgid "%d new file added successfully."
+msgstr "%d nouveau(x) fichier(s) correctement sélectionné(s)"
+
+#: includes/core/uploader_class.php:389
+#, php-format
+msgid "%d new files added successfully."
+msgstr "%d nouveaux fichiers ajoutés"
+
+#: includes/core/uploader_class.php:390
+msgid "processing..."
+msgstr "En cours..."
+
+#: includes/core/uploader_class.php:391
+#, php-format
+msgid "Uploading %s"
+msgstr "Transfert %s"
+
+#: includes/core/uploader_class.php:392
+#, php-format
+msgid "Uploading attachment file %s"
+msgstr "Transfert des pièces jointes : %s"
+
+# débug ?
+#: includes/core/uploader_class.php:393
+#, php-format
+msgid "%s:- is removed successfully."
+msgstr ""
+
+#: includes/core/uploader_class.php:394
+msgid "File uploaded Successfully."
+msgstr "Fichier envoyé !"
+
+#: includes/core/uploader_class.php:395
+msgid "Waiting for attachments."
+msgstr "Nécessite une image jointe."
+
+#: includes/core/uploader_class.php:396
+#, php-format
+msgid "You must login to upload files, %s to login now."
+msgstr "Vous devez être connecté pour transférer des fichiers, %s pour vous connecter."
+
+#: includes/core/uploader_class.php:397
+msgctxt "extracoding uploader"
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: includes/core/uploader_class.php:501
+msgid "Page Expired"
+msgstr "Page expirée"
+
+#: includes/core/uploader_class.php:548
+msgid "Invalid request, Possible hacking attempt!"
+msgstr ""
+
+#: includes/core/widgets/advanced_posts_widget.php:42
+msgid "Advanced Posts Widget"
+msgstr ""
+
+#: includes/core/widgets/advanced_posts_widget.php:46
+msgid "With the help of this widget you can display posts"
+msgstr ""
+
+#: includes/core/widgets/radio_widget.php:46
+msgid "Radio Widget"
+msgstr ""
+
+#: includes/core/widgets/radio_widget.php:50
+msgid "Uploader theme radio widget"
+msgstr ""
+
+#: includes/core/widgets/staff_picked_widget.php:12
+msgid "The post ID required for staff picked widget."
+msgstr ""
+
+#: includes/core/widgets/staff_picked_widget.php:47
+msgid "Staff Picked Widget"
+msgstr ""
+
+#: includes/core/widgets/staff_picked_widget.php:50
+msgid "A widget to show staff picked posts."
+msgstr ""
+
+#: includes/core/widgets/users_widget.php:62
+msgid "Users Widget"
+msgstr ""
+
+#: includes/core/widgets/users_widget.php:66
+msgid "With the help of this widget you can display twitter feeds"
+msgstr ""
+
+#: includes/launcher.php:173
+msgctxt "extracoding browse users custom page title"
+msgid "Browse Users"
+msgstr ""
+
+#: includes/launcher.php:174
+msgctxt "extracoding media files custom page title"
+msgid "Media Files"
+msgstr ""
+
+#: includes/launcher.php:179
+msgctxt "extracoding custom contact page title"
+msgid "Contact Us"
+msgstr ""
+
+#: includes/launcher.php:181
+msgctxt "extracoding custom browser categories page title"
+msgid "Browse Categories"
+msgstr ""
+
+#: includes/launcher.php:194
+msgid "Home Page Left Sidebar"
+msgstr ""
+
+#: includes/launcher.php:195
+msgid "home-page-left-sidebar"
+msgstr ""
+
+#: includes/launcher.php:196
+msgid "A built-in extracoding uploader sidebar for home page."
+msgstr ""
+
+#: includes/launcher.php:204
+msgid "Blog Page Sidebar"
+msgstr ""
+
+#: includes/launcher.php:205
+msgid "blog-page-sidebar"
+msgstr ""
+
+#: includes/launcher.php:206
+msgid "A built-in extracoding uploader sidebar for blog page."
+msgstr ""
+
+#: includes/launcher.php:255
+msgid "Unknown Message!!"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/abstracts/fields_abstract.php:101
+#, php-format
+msgctxt "extracoding field name suffix"
+msgid "%s Field"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/abstracts/fields_abstract.php:154
+#: includes/thirdparty/exc-framework/core/fields/clickable_field.php:31
+#, php-format
+msgid "The skin method '%s' is not exists."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/admin/custom_page_class.php:101
+msgid "You don't have permission to access this page"
+msgstr "Vous n'avez pas accès à cette page."
+
+#: includes/thirdparty/exc-framework/core/admin/menu_class.php:210
+msgid "Custom Menu Page Title"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/admin/menu_class.php:211
+msgid "Custom Menu Item"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/admin/metabox_class.php:25
+msgid "Please enter post type names to edit."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/admin/metabox_class.php:159
+#, php-format
+msgid "The db_name key is required for %s"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/admin/sidebars_class.php:112
+msgid "Custom Sidebar Name"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/admin/taxonomy_class.php:24
+msgid "Please enter taxonomy to edit."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/base_class.php:156
+#, php-format
+msgid "The file %s is not exists."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/base_class.php:385
+#, php-format
+msgid "The directory path \"%s\" is not valid."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/base_class.php:446
+msgid "Arguments passed in load library"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/base_class.php:725
+msgctxt "exc-login"
+msgid "You are not logged in."
+msgstr "Vous n'êtes pas connecté"
+
+#: includes/thirdparty/exc-framework/core/config_class.php:72
+#, php-format
+msgctxt "extracoding framework"
+msgid "Unable to load config file %s"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/file_upload_field.php:62
+#, php-format
+msgid "The file uploads reached max %d files limit."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/file_upload_field.php:81
+#, php-format
+msgid "You must uploaded only supported %s files."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/file_upload_field.php:117
+msgid "There was an error uploading the image."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/file_upload_field.php:122
+msgid "You don't have permission to edit this post"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/file_upload_field.php:141
+#: includes/thirdparty/exc-framework/core/fields/file_upload_field.php:155
+#: includes/thirdparty/exc-framework/core/fields/file_upload_field.php:168
+msgid "Invalid request to delete file, possible hacking attempt."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/file_upload_field.php:147
+msgid "Unable to delete file, possible hacking attempt."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/media_uploader_field.php:19
+msgctxt "exc file uploader"
+msgid "Select Files"
+msgstr "Choisir fichier"
+
+#: includes/thirdparty/exc-framework/core/fields/media_uploader_field.php:26
+msgctxt "exc file uploader"
+msgid "You can upload only 1 file."
+msgstr "Vous ne pouvez envoyer qu'un seul fichier."
+
+#: includes/thirdparty/exc-framework/core/fields/media_uploader_field.php:27
+#, php-format
+msgctxt "exc file uploader"
+msgid "You can upload maximum %d files."
+msgstr "Vous ne pouvez pas envoyer plus de %d fichiers."
+
+#: includes/thirdparty/exc-framework/core/fields/oembed_field.php:47
+msgid "We are unable to process your request, please make sure you entered a supported URL."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/oembed_field.php:59
+msgctxt "submit"
+msgid "Submit"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/oembed_field.php:60
+msgctxt "delete"
+msgid "Delete"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/fields/range_slider_field.php:24
+msgctxt "extracoding range slider"
+msgid "Current value:"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/form_class.php:83
+msgid "Empty form settings"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/form_class.php:115
+#, php-format
+msgid "%s is not exists"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/form_class.php:140
+msgid "You don't have permission to access some of elements on this page."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/form_class.php:167
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/form_class.php:219
+#, php-format
+msgid "The field %s type must be defined."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/form_class.php:257
+#, php-format
+msgid "You must load/prepare %s before validation"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/form_class.php:299
+#: includes/thirdparty/exc-framework/core/form_class.php:309
+#, php-format
+msgid "The %s config file is not loaded."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/options_class.php:47
+msgctxt "extracoding theme options"
+msgid "Unable to load active from settings for theme options"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/options_class.php:129
+#, php-format
+msgid "The db_name is not defined in %s"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/options_class.php:202
+msgid "There are errors in form submission, please double check your entries and try again."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/options_class.php:209
+msgid "Database name is not defined in config file."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/options_class.php:340
+msgid "The options are saved successfully."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:324
+msgid "Unable to find validation rules"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:535
+msgid "The field was not set"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:677
+msgid "Unable to access an error message corresponding to your field name."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1325
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1326
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1327
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1328
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1329
+#, php-format
+msgid "The %s field must contain a valid URL."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1330
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1331
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1332
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1333
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1334
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1335
+#, php-format
+msgid "The %s field may only contain alph-space characters."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1336
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1337
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters, underscores, and dashes."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1338
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1339
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1340
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1341
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1342
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1343
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1344
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1345
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1346
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1347
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1348
+#, php-format
+msgid "The %s field must contain a file extension %s."
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/validation_class.php:1349
+#, php-format
+msgid "The %s field is not a valid options"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/core/wp_admin_class.php:51
+#, php-format
+msgid "The page %s is not found"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/views/block.php:25
+msgid "Save Options"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/views/dynamic.php:4
+msgctxt "extracoding dynamic row button text"
+msgid "Add row"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/views/dynamic.php:26
+msgid "Add row above"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/views/dynamic.php:27
+msgid "Add row below"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/views/dynamic.php:29
+msgid "Move to top"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/views/dynamic.php:30
+msgid "Move to bottom"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/views/dynamic.php:32
+msgid "Delete row"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/views/dynamic.php:55
+msgctxt "extracoding dynamic row missing title"
+msgid "[TITLE IS MISSING]"
+msgstr ""
+
+#: includes/thirdparty/exc-framework/views/js/templates/dialog.php:8 modules/templates/dialogs.php:56
+msgid "Close"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:161
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:48
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:162
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:49
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:163
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:50
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:52
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:53
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:54
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. Contact the "
+"administrator of this site for help on getting the plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. Contact the "
+"administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:168
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:55
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:56
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:57
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the "
+"administrator of this site for help on getting the plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the "
+"administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:58
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum compatibility with "
+"this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure maximum compatibility with "
+"this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:59
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator "
+"of this site for help on getting the plugin updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. Contact the "
+"administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:60
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:175
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:62
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:177
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:63
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:532
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1167
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1170
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1288
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1312
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, so "
+"please be patient."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2070
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2070
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so please be "
+"patient."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:51
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:61
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:64
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/views/author/subscription_form.php:4
+msgid "In order to follow this user please enter following details."
+msgstr ""
+
+#: includes/views/metabox/embed_media.php:5
+msgid "Enter the URL and Embeding Code"
+msgstr ""
+
+#: includes/views/metabox/embed_media.php:9
+msgid "Supported Hosts:"
+msgstr ""
+
+#: includes/views/metabox/embed_media.php:16
+msgid "Process"
+msgstr ""
+
+#: includes/views/widgets/advanced_posts/style1.php:29
+#: includes/views/widgets/advanced_posts/style2.php:29
+#, php-format
+msgctxt "extracoding advanced posts widget"
+msgid "By %s"
+msgstr "Par %s"
+
+#: includes/views/widgets/advanced_posts/style1.php:31
+#: includes/views/widgets/advanced_posts/style2.php:31
+#, php-format
+msgctxt "extracoding advanced posts widget"
+msgid "on %s"
+msgstr "sur %s"
+
+#: includes/views/widgets/advanced_posts/style1.php:31
+#: includes/views/widgets/advanced_posts/style2.php:31
+msgctxt "extracoding advanced posts widget"
+msgid "m F Y"
+msgstr ""
+
+#: includes/views/widgets/advanced_posts/style1.php:44
+#: includes/views/widgets/advanced_posts/style2.php:44
+msgctxt "extracoding advanced posts widget"
+msgid "no posts found"
+msgstr "aucun post trouvé"
+
+#: includes/views/widgets/staff_picked.php:20
+#, php-format
+msgctxt "extracoding staff picked widget"
+msgid "By %s"
+msgstr "Par %s"
+
+#: includes/views/widgets/staff_picked.php:32
+msgctxt "extracoding staff picked widget"
+msgid "no posts found"
+msgstr "aucun post trouvé"
+
+#: includes/views/widgets/users.php:83 sidebar-dashboard.php:71
+msgid "Following"
+msgstr "Abonnements"
+
+#: includes/views/widgets/users.php:84 modules/dashboard-menu.php:11 sidebar-dashboard.php:69
+msgid "Followers"
+msgstr "Abonnés"
+
+#: includes/views/widgets/users.php:85
+msgid "Views"
+msgstr "Vues"
+
+#: includes/views/widgets/users.php:97
+msgid "Load More"
+msgstr "Plus"
+
+#: includes/views/widgets/users.php:103
+msgctxt "extracoding users widgets"
+msgid "no user found"
+msgstr "Aucun contact trouvé"
+
+# A changer pour extracoding
+#: modules/author_posts.php:2
+msgid "More from this author"
+msgstr "Du même auteur"
+
+#: modules/author_posts.php:2 users-grid-view.php:73 users-list-view.php:62
+msgid "View all posts"
+msgstr "Voir tout"
+
+#: modules/contact_form.php:12
+msgctxt "extracoding uploader contact form button"
+msgid "Send Message"
+msgstr "Envoyer message"
+
+#: modules/dashboard-menu.php:9
+msgid "My Profile"
+msgstr "Mon compte"
+
+# *
+#: modules/dashboard-menu.php:10 modules/user_controls.php:49
+msgid "Media Files"
+msgstr "Médias"
+
+#: modules/dashboard-menu.php:12
+msgid "Followings"
+msgstr "Abonnement(s)"
+
+#: modules/dashboard-menu.php:13
+msgid "Media Likes"
+msgstr "Mentions \"j'aime\""
+
+#: modules/filtration.php:52
+msgctxt "extracoding uploader media filter"
+msgid "all"
+msgstr "tous"
+
+#: modules/filtration.php:55
+msgctxt "extracoding uploader media filter"
+msgid "images"
+msgstr "Images"
+
+#: modules/filtration.php:59
+msgctxt "extracoding uploader media filter"
+msgid "videos"
+msgstr "Vidéo"
+
+#: modules/filtration.php:63
+msgctxt "extracoding uploader media filter"
+msgid "sounds"
+msgstr "Audio"
+
+#: modules/filtration.php:91
+msgid "Search any keyword"
+msgstr "Mots-clefs"
+
+#: modules/related_posts.php:2
+msgid "Related Posts"
+msgstr "Mais aussi..."
+
+#: modules/signup_success.php:3
+#, php-format
+msgid "You are registered successfully, click to %s."
+msgstr "Compte créé ! %s"
+
+#: modules/signup_success.php:4
+msgid "login now"
+msgstr "S'identifier maintenant"
+
+#: modules/templates/dialogs.php:57
+msgid "Save changes"
+msgstr "Sauvegarder changements"
+
+#: modules/templates/members.php:40
+msgid "Recover Password"
+msgstr "Confirmation mot de passe"
+
+#: modules/templates/members.php:44 modules/templates/members.php:66
+#, php-format
+msgid "Go back to login page - %s"
+msgstr "Retour page de connexion - %s"
+
+#: modules/templates/members.php:44 modules/templates/members.php:66 modules/templates/members.php:83
+#: modules/templates/members.php:115
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: modules/templates/members.php:62
+msgid "Update Password"
+msgstr "Changer mot de passe"
+
+#: modules/templates/members.php:81
+msgid "Sign In To Uploader"
+msgstr "S'identifier"
+
+#: modules/templates/members.php:83
+msgid "Forgot your password?"
+msgstr "Mot de passe oublié ?"
+
+#: modules/templates/members.php:84
+msgid "OR"
+msgstr "ou"
+
+#: modules/templates/members.php:84
+msgid "Signup"
+msgstr "inscrivez-vous"
+
+#: modules/templates/members.php:113
+msgid "Sign Up for new account"
+msgstr "Créer un compte !"
+
+#: modules/templates/members.php:115
+#, php-format
+msgid "Already have an account? - %s"
+msgstr "Déjà membre ? - %s"
+
+#: modules/templates/uploader.php:21
+msgid "Save"
+msgstr "OK"
+
+#: modules/templates/uploader.php:39
+msgid "delete"
+msgstr "supprimer"
+
+#: modules/templates/uploader.php:54
+#, php-format
+msgid "Drop attachments here or %s to upload"
+msgstr "Glissez des pièces jointes ici, ou %s"
+
+#: modules/templates/uploader.php:55
+msgctxt "extracoding uploader attachment string"
+msgid "Click Here"
+msgstr "Cliquez ici"
+
+#: modules/templates/uploader.php:77
+msgid "Want to upload more files?"
+msgstr "Rajouter des fichiers ?"
+
+#: modules/templates/uploader.php:78
+msgid "CLICK HERE"
+msgstr "CLIQUEZ ICI"
+
+#: modules/templates/uploader.php:79
+msgid "Or just drop more files"
+msgstr "Ou glisser plus de fichiers"
+
+#: modules/templates/uploader.php:88
+msgid "start uploading"
+msgstr "Démarrer l'envoi"
+
+#: modules/templates/uploader.php:113
+msgid "edit"
+msgstr "éditer"
+
+#: modules/templates/uploader.php:114
+msgid "cancel"
+msgstr "annuler"
+
+#: modules/templates/uploader.php:122
+msgid "View"
+msgstr "voir"
+
+#: modules/user_about.php:4 sidebar-media.php:116
+msgid "About us"
+msgstr "Qui sommes nous ?"
+
+#: modules/user_controls.php:24
+msgid "settings"
+msgstr "paramètres"
+
+#: modules/user_controls.php:36
+msgid "WP Admin"
+msgstr ""
+
+#: modules/user_controls.php:43
+msgid "Dashboard"
+msgstr "Compte"
+
+#: modules/user_controls.php:56
+#, php-format
+msgid "Followers (%d)"
+msgstr "Abonnés (%d)"
+
+#: modules/user_controls.php:63
+msgid "Profile Settings"
+msgstr "Paramètres"
+
+#: modules/user_controls.php:69
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: modules/user_controls.php:81 modules/user_controls.php:82
+msgid "Sign In"
+msgstr "S'identifier"
+
+#: modules/user_controls.php:87 modules/user_controls.php:88
+msgid "Sign Up"
+msgstr "S'inscrire"
+
+#: modules/user_filtration.php:7
+msgid "Browse Users"
+msgstr "Parcourir utilisateurs"
+
+#: modules/user_filtration.php:22
+msgid "Sort By"
+msgstr "Trier par"
+
+#: modules/user_filtration.php:29
+msgctxt "extracoding uploader user filter"
+msgid "Most appriciated"
+msgstr "Le plus apprécié"
+
+#: modules/user_filtration.php:30
+msgctxt "extracoding uploader user filter"
+msgid "Most Viewed"
+msgstr "Le plus vu"
+
+#: modules/user_filtration.php:31
+msgctxt "extracoding uploader user filter"
+msgid "Most Discussed"
+msgstr "Le plus commenté"
+
+#: modules/user_filtration.php:32
+msgctxt "extracoding uploader user filter"
+msgid "Most Recent"
+msgstr "Le plus récent"
+
+#: modules/user_filtration.php:40
+msgid "Ascending"
+msgstr "Montant"
+
+#: modules/user_filtration.php:40
+msgid "Descending"
+msgstr "Déscendant"
+
+#: modules/user_filtration.php:40
+msgctxt "extracoding uploader user filter"
+msgid "Descending"
+msgstr "Déscendant"
+
+#: searchform.php:5
+msgid "Search for:"
+msgstr "Rechercher"
+
+#: sidebar-dashboard.php:18
+msgctxt "extracoding uploader frontend profile image edit string"
+msgid "EDIT"
+msgstr "EDITER"
+
+#: sidebar-dashboard.php:19
+msgctxt "extracoding uploader frontend profile image cancel string"
+msgid "CANCEL"
+msgstr "ANNULER"
+
+# A vérifier
+#: sidebar-dashboard.php:64
+msgid "Media Views"
+msgstr "Vues"
+
+#: sidebar-dashboard.php:67
+msgid "Appreciations"
+msgstr "Evaluations"
+
+# Celà apparait notamment dans "mon compte" (frontend user), totalement innaproprié, trouver autre chose
+#: sidebar-dashboard.php:79
+msgid "find us"
+msgstr "Nous trouver"
+
+#: sidebar-dashboard.php:120
+msgid "about us"
+msgstr "Qui sommes nous ?"
+
+#: sidebar-media.php:13
+msgid "This post is pending for review and visible to author only."
+msgstr "Ce selfad est en attente de modération. Seul vous et la marque concernée peuvent le voir."
+
+#: sidebar-media.php:21
+msgid "Uploaded by"
+msgstr "Publié par"
+
+#: sidebar-media.php:74
+msgid "Like This Media"
+msgstr "Aimer ce média"
+
+#: single.php:60
+msgid "Sorry no contact found"
+msgstr "Contact introuvable, désolé"
+
+#: taxonomy-genre.php:17
+msgid "Radio Stations"
+msgstr "Stations radios"
+
+#: users-grid-view.php:57
+msgid "Address not available"
+msgstr "Adresse non disponible"
+
+#: users-profile.php:38
+msgid "Personal Details"
+msgstr "Informations personnelles"
+
+#: users-profile.php:44
+msgid "First Name"
+msgstr "Prénom"
+
+#: users-profile.php:46
+msgid "Enter firtname"
+msgstr "Renseigner prénom"
+
+#: users-profile.php:52
+msgid "Last Name"
+msgstr "Nom"
+
+#: users-profile.php:61
+msgid "DOB"
+msgstr ""
+
+#: users-profile.php:69
+msgid "Gender"
+msgstr ""
+
+#: users-profile.php:78
+msgid "About me"
+msgstr ""
+
+#: users-profile.php:89
+msgid "Change Password"
+msgstr ""
+
+#: users-profile.php:106
+msgid "Contact Details"
+msgstr ""
+
+#: users-profile.php:121
+msgid "Notification Email Address"
+msgstr ""
+
+#: users-profile.php:130
+msgid "Location"
+msgstr ""
+
+#: users-profile.php:141
+msgid "Public Contact Details"
+msgstr ""
+
+#: users-profile.php:156
+msgid "Skype ID"
+msgstr ""
+
+#: users-profile.php:169
+msgid "Social Network Links"
+msgstr ""
+
+#: users-profile.php:193
+msgid "Google+"
+msgstr ""
+
+#: modules/filtration.php:27
+msgctxt "extracoding uploader media filter"
+msgid "All Categories"
+msgstr "Tout"

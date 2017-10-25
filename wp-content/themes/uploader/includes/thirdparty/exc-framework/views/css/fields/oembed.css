@@ -1,0 +1,13 @@
+.exc-oembed .spinner{
+	float: none;
+	vertical-align: top;
+	display: none;
+}
+
+.exc-oembed .embed-code {
+	margin-top: 1em;
+}
+
+.exc-ombed .embed-code iframe {
+	max-width: 100%;
+}

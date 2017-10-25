@@ -1,0 +1,2 @@
+[16-Oct-2017 21:34:44 America/Denver] PHP Fatal error:  Interface 'Requests_Transport' not found in /home1/autombq6/public_html/quizstorm/wp-includes/Requests/Transport/cURL.php on line 15
+[16-Oct-2017 21:35:09 America/Denver] PHP Fatal error:  Interface 'Requests_Transport' not found in /home1/autombq6/public_html/quizstorm/wp-includes/Requests/Transport/fsockopen.php on line 15

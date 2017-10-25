@@ -1,0 +1,79 @@
+/*******************
+	BG-PRIMARY
+*******************/
+.top-bar,
+.btn-primary,
+.media-types .btn:hover,
+.media-types .btn.active,
+.media-views .grid-view:hover span,
+.media-views .list-view:hover span,
+.media-views .grid-view.active span,
+.media-views .list-view.active span,
+.media-views .grid-view.active span:before,
+.media-views .grid-view.active span:after,
+.media-views .grid-view:hover span:before,
+.media-views .grid-view:hover span:after,
+.media-search .search .btn:hover,
+.media-search .search .form-control:focus ~ .btn,
+.media-search .search .form-control:hover ~ .btn,
+.post-type-icon,
+.page-banner,
+.mejs-controls .mejs-time-rail .mejs-time-current,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
+.comment-reply-link,
+.comment-form input[type="submit"],
+.catg-thumb-icon, .catg-thumb-img,
+.widget .header,
+.widget_exc_radio_widget .exc-play-station,
+.widget_exc_user_widget .status-open,
+.widget_tag_cloud > .tagcloud > a,
+.widget_nav_menu ul li a:hover
+.user-status,
+.searchform .search input[type="submit"],
+.wp-pagination span, .pagination a li:hover,
+.double-bounce1, .double-bounce2,
+.widget_exc_user_widget .user-info img,
+.widget_exc_radio_widget .station-info img,
+.entry-by .author-pic img {
+	background-color: #e74c3c;
+}
+/*******************
+	color-primary
+*******************/
+a, a:hover, a:focus,
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
+.top-bar .btn,
+.main-nav .menu li:hover > a,
+.welcome-btn .dropdown-menu li a:hover,
+.media-categories .dropdown-menu > li > a.active, .sort-by .dropdown-menu > li > a.active,
+.post-views li a:hover,
+.exc-user-statistics li a:hover,
+.related-entry:hover figcaption,
+.category-box:hover .catg-footer,
+.station-content p > a:hover,
+#wp-calendar td#today, #wp-calendar td#prev a, #wp-calendar td#next a,
+.widget_nav_menu ul li a:hover,
+.widget_recent_entries ul li a:hover,
+.widget_categories ul > li > a:hover,
+.widget_archive ul > li > a:hover,
+.widget_pages ul li.current_page_item a,
+.widget_pages ul li a:hover,
+.widget_meta ul li a:hover,
+.widget_recent_comments ul li a:hover,
+.widget_rss ul li a:hover,
+.error-page-text a, .wp-pagination a,
+.breadcrumb > .active, .tags a:hover,
+.entry-by .author-profession a:hover,
+.entry-by .author-name a:hover {
+	color: #e74c3c;
+}
+
+/*******************
+	border-color
+*******************/
+.media-search .search input,
+.content-button label.btn, .pagination a li:hover,
+.comment-form input:focus, .comment-form textarea:focus,
+.form-control:focus {
+	border-color: #e74c3c;
+}

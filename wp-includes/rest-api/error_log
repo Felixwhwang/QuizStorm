@@ -1,0 +1,4 @@
+[16-Oct-2017 06:51:35 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[18-Oct-2017 20:50:59 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[19-Oct-2017 05:11:55 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[20-Oct-2017 14:56:27 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home1/autombq6/public_html/quizstorm/wp-includes/rest-api/class-wp-rest-response.php on line 17

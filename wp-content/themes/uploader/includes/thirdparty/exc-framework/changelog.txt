@@ -1,0 +1,35 @@
+Version 2.2
+Underscore library bug fix
+
+Version 1.4
+1:04 PM 6/7/2015 added exc_theme_instance function to get the theme function
+3:35 PM 6/9/2015 added multiple fields option
+7:09 AM 6/27/2015 exc_base_class::get_file_url fallback url support added
+7:13 AM 6/27/2015 empty css and js URL bug fixed in core/html_class.php
+7:58 AM 6/27/2015 wp_admin/metabox_class remove_meta_box fix
+11:40 PM 6/29/2015 no-headingsupport added in block
+Version 1.3
+12:23 AM 5/16/2015 metabox set_data issue fix
+11:49 AM 6/5/2015 exc_pages_list alternate of get_pages to fetch the key => value added in functions/wp_helper.php
+1:16 AM 7/1/2015 dual list box support added
+
+Version 1.2
+--------------------------------------------------------
+8:39 PM 4/14/2015 Style.css full-width and boxed-width code added
+9:39 PM 4/14/2015 added filter in exc_base_class::get_option
+
+version 1.1
+-----------------------------------
+
+5:34 PM 12/12/2014 Path fix for child theme in base_class.php
+6:08 PM 12/27/2014 Added functionality to automatically setup local enviroment
+7:03 PM 12/27/2014 Duplicate function bug fixed in functions/helpers.php
+8:33 PM 12/27/2014 Removed commented code and extra functions from functions/helpers.php
+8:33 PM 12/27/2014 current_user_role function moved to wp_helper.php from helpers.php
+6:53 PM 1/1/2015 fixed empty location in exc_base_class::get_file_url
+9:44 PM 1/1/2015 local system URL support added as second parameter in exc_base_class::system_url
+3:52 PM 1/2/2015 exc_html_class::load_bootstrap system_url second parameter bug fixed
+5:17 PM 1/24/2015 fixed default value from false ( boolean ) to string '' in function exc_kv
+7:25 PM 2/17/2015 exc_base_class:get_option pass array or key name option added
+7:25 PM 2/17/2015 style.css .exc-preview-thumb margin-top bug fixed
+7:43 PM 2/19/2015 added fallback_path support in exc_back_class
